@@ -21,5 +21,5 @@ My email is maximilia ·dot· bautista ·at· uclouvain ·dot· be.
 <br><br><br><br><br><br><br>
 Hello!
 
-![[1_ME.jpg]]
+![1_ME.jpg](1_ME.jpg)
 
