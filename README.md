@@ -11,7 +11,7 @@ In this small markdown pages you'll find a sort of open CV. The basic structure 
 - my actual [CV](https://github.com/oliviodare/me/blob/main/BautistaPerpinya_CV.pdf).
 
 
-# Socials and getting in touch
+## Socials and getting in touch
 My online handle is usually oliviodare.  
 This is my [twitter](https://twitter.com/oliviodare).  
 This is my [LinkedIn](https://linkedin.com/).   
