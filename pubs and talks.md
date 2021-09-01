@@ -24,49 +24,46 @@ A three-way debate organized by the Journal of Trial and Error, the Open Science
 
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
-“¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.” 
-
+“¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
 Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.”
 
 ### 2020
-
-**Speaker, Descartes Centre for the History and Philosophy of the Sciences and the Humanities, October 29.**
+**Speaker, Descartes Centre for the History and Philosophy of the Sciences and the Humanities, October 29.**   
 “To be a molecular scientist: Technical social responsibility in 1970s _Nature_ advertisements and leaders.”  
   
-**Host and organiser, Journal of Trial and Error events, November 30.**   Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.  
+**Host and organiser, Journal of Trial and Error events, November 30.**   
+Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.  
   
-**Invited speaker, Universidad Técnica de Manabí, IV Conveción Científica Internacional, October 20.**
-“Ciencia Abierta: Globalidad y Localidad.”  
+**Invited speaker, Universidad Técnica de Manabí, IV Conveción Científica Internacional, October 20.**   
+“Ciencia Abierta: Globalidad y Localidad.”   
 Roundtable – “Sistemas latinoamericanos de indexación: ética o estética.”   
 
-**Panellist, Open Publishing Fest, May 25.**  
+**Panellist, Open Publishing Fest, May 25.**   
 “Presenting the Journal of Trial and Error.”  
   
-**Invited speaker and panellist, University of Bern, Society Symposium, February 21.**   
+**Invited speaker and panellist, University of Bern, Society Symposium, February 21.**    
 “The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.”  
   
-**Invited speaker, Erasmus University Rotterdam, Open Science Community RproducibiliTea meeting, February 12.**  
+**Invited speaker, Erasmus University Rotterdam, Open Science Community RproducibiliTea meeting, February 12.**    
 “ReproducibiliTea: Meet the Journal of Trial and Error.”  
   
 ### 2019  
-
-**Seminar organiser and presenter,** Utrecht University, November 26.  
+**Seminar organiser and presenter, Utrecht University, November 26.**   
 “Engaged History: Should Academia Lead to Activism?”  
   
-**Invited speaker, Cambridge University, Laboratory of Molecular Biology, July 19.  
-**“The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”  
-
-> Annual Graduate Student Symposium.
+**Invited speaker, Cambridge University, Laboratory of Molecular Biology, July 19.**   
+“The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”.   
+Annual Graduate Student Symposium.
 
 ---
 
 ## journalistic pubs   
-Interview (2020). “JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?” _Journal of Trial and Error_.  
+Interview (2020). “[JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?](https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/)” _Journal of Trial and Error_.  
   
-Interview (2020). “JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.” _Journal of Trial and Error_.  
+Interview (2020). “[JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.](https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/)” _Journal of Trial and Error_.  
   
-Blogpost (2020). “Open Science Symposium – Starting off with the Natural Sciences.” _Blog: the Road to Open Science_, Open Science Community Utrecht.  
+Blogpost (2020). “[Open Science Symposium – Starting off with the Natural Sciences.](https://openscience-utrecht.com/open-science-symposium-starting-off-with-the-natural-sciences/)” _Blog: the Road to Open Science_, Open Science Community Utrecht.  
   
-Editorial, with Martijn van der Meer (2019). “Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.” _Journal of Trial and Error_.  
+Editorial, with Martijn van der Meer (2019). “[Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.](https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/)” _Journal of Trial and Error_.  
   
 Blogpost (2020). “Holanda Abierta.” Post in blog of association ‘Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)’.
