@@ -1,4 +1,4 @@
-My name is Max Bautista Perpinyà, this github repository acts as my 'webiste'.  
+My name is Max Bautista Perpinyà, this github repository acts as my webiste.
   
  _Welcome._  
  
