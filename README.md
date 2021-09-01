@@ -1,7 +1,7 @@
-# Welcome, my name is Max.
-
-Welcome to this Github repository, which now acts as my website. My name is Max Bautista Perpinyà, I am a PhD researcher in the history of science based in UCLouvain, in Belgium.
-
+# Hello, my name is Max Bautista Perpinyà and this github repository acts as my webiste.
+  
+ _Welcome._
+I am a PhD researcher in the history of science based in UCLouvain, in Belgium.
 
 In these small markdown pages you'll find a sort of open CV. The basic structure is this:
 
