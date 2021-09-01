@@ -1,9 +1,8 @@
-# Hello, my name is Max Bautista Perpinyà and this github repository acts as my webiste.
+# Hello, my name is Max.
   
- _Welcome._
-I am a PhD researcher in the history of science based in UCLouvain, in Belgium.
+Welcome to this small Github repository, which now acts as my website. My name is Max Bautista Perpinyà and I am a PhD researcher in the history of science based in UCLouvain, in Belgium.
 
-In these small markdown pages you'll find a sort of open CV. The basic structure is this:
+In these markdown pages you'll find a sort of open CV. The basic structure is this:
 
 - my [bio](https://github.com/oliviodare/me/blob/main/bio.md).
 - the [projects](https://github.com/oliviodare/me/blob/main/projects.md) I am working on.
@@ -18,3 +17,5 @@ This is my [LinkedIn](https://linkedin.com/).
 This is my [ORCID](https://orcid.org/0000-0002-5202-6961) (0000-0002-5202-6961).  
 This is the [lab](https://pencelab.be/people/) I'm currently working.   
 My email is maximilia ·dot· bautista ·at· uclouvain ·dot· be.
+
+
