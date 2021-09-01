@@ -20,7 +20,7 @@ Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in th
 
  
 **Host and organiser, Journal of Trial and Error events, June 15.**   
-“Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.” [https://www.jtrialerror.com/debate/](https://www.jtrialerror.com/debate/)
+“Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.” [https://www.jtrialerror.com/debate/](https://www.jtrialerror.com/debate/).
 
 A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
 
@@ -35,8 +35,7 @@ Roundtable – “¿Qué es una publicación científica? Cómo generar una 
 **Speaker, Descartes Centre for the History and Philosophy of the Sciences and the Humanities, October 29.**
 “To be a molecular scientist: Technical social responsibility in 1970s _Nature_ advertisements and leaders.”  
   
-**Host and organiser, Journal of Trial and Error events, November 30.**  
-Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.  
+**Host and organiser, Journal of Trial and Error events, November 30.**   Journal Launch Online Event: Opening Issue, the Journal of Trial and Error.  
   
 **Invited speaker, Universidad Técnica de Manabí, IV Conveción Científica Internacional, October 20.**
 “Ciencia Abierta: Globalidad y Localidad.”  
