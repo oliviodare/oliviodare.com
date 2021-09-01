@@ -19,9 +19,8 @@ Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in th
 
  
 **Host and organiser, Journal of Trial and Error events, June 15.**   
-“Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.” [https://www.jtrialerror.com/debate/](https://www.jtrialerror.com/debate/).
-
-A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden).
+“Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
+A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: https://www.youtube.com/watch?v=TMGaNvo-SgM
 
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
