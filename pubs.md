@@ -2,10 +2,10 @@
   
 
 ### 2020
-with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser. 
+with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
 “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). [https://doi.org/10.36850/ed1](https://doi.org/10.36850/ed1).  
   
-with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez
+with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
 “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. [https://doi.org/10.3390/ijms21207771](https://doi.org/10.3390/ijms21207771).  
   
 ---
