@@ -7,6 +7,7 @@ In these pages you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.md).
 - the [projects](projects.md) I am working on.
 - a [list](pubs%20and%20talks.md) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
+- a [list](pubs.md) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
 - my actual [CV](BautistaPerpinya_CV.pdf).
 
 
