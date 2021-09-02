@@ -6,7 +6,6 @@ In these pages you'll find a sort of open CV. The basic structure is this:
 
 - my [bio](bio.md).
 - the [projects](projects.md) I am working on.
-- a [list](pubs%20and%20talks.md) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
 - a [list](pubs.md) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
 - my actual [CV](BautistaPerpinya_CV.pdf).
 
@@ -19,7 +18,7 @@ This is my [ORCID](https://orcid.org/0000-0002-5202-6961) (0000-0002-5202-6961).
 This is the [lab](https://pencelab.be/people/) I'm currently working.   
 My email is maximilia ·dot· bautista ·at· uclouvain ·dot· be.
 
-<br><br><br><br><br><br><br>
+<br>
 Hello!
 
 ![1_ME.jpg](1_ME.jpg)
