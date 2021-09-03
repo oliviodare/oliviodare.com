@@ -1,4 +1,5 @@
- 
+# bio
+
 ### What I'm doing now
 I am an PhD researcher in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. I am at a philosophy department but I consider myself as a historian. I study the concept of 'biodiversity' in non-scientific settings, analysing the diverse meanings and uses that different speakers (politicians, businesses, NGOs, invested scientists) make of it in their particular context. My PhD is part of a larger project that aims at clarifying the '<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>' in conservation biology.  
   

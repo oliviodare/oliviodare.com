@@ -1,3 +1,7 @@
+# pubs
+<br>
+
+
 ## academic pubs  
   
 
@@ -9,6 +13,7 @@ with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, 
 “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
   
 ---
+<br>
 
 ## talks  
 
@@ -56,6 +61,8 @@ Roundtable – “Sistemas latinoamericanos de indexación: ética o estétic
 Annual Graduate Student Symposium.
 
 ---
+
+<br>
 
 ## journalistic pubs   
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?</a>” _Journal of Trial and Error_.  
