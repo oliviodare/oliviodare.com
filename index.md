@@ -13,7 +13,7 @@ In these pages you'll find a sort of open CV. The basic structure is this:
 ## Socials and getting in touch
 My online handle is usually oliviodare.  
 This is my [twitter](https://twitter.com/oliviodare).  
-This is my [linkedin](https://linkedin.com/).   
+This is my [linkedin](https://www.linkedin.com/in/max-bp/).   
 This is my [ORCID](https://orcid.org/0000-0002-5202-6961) (0000-0002-5202-6961).  
 This is the [lab](https://pencelab.be/people/) I'm currently working.   
 My email is maximilia ·dot· bautista ·at· uclouvain ·dot· be.
