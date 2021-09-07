@@ -7,7 +7,7 @@ In these pages you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.md).
 - the [projects](projects.md) I am working on.
 - a [list](pubs.md) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
-- my actual <a href="https://github.com/oliviodare/CV/blob/main/BautistaPerpinya_CV.pdf" target="_blank">CV</a>.
+- my actual <a href="https://github.com/oliviodare/oliviodare.com/blob/main/BautistaPerpinya_CV.pdf" target="_blank">CV</a>.
 
 
 ## Socials and getting in touch
