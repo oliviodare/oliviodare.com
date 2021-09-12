@@ -11,5 +11,5 @@ Before studying History and Philosophy of Science, I had I studied an MSc in Neu
   
   
 ### If you are interested
-_<a href="https://github.com/oliviodare/CV/blob/main/BautistaPerpinya_CV.pdf" target="_blank">you can download my formal CV here.</a>_
+_<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my formal CV here.</a>_
 
