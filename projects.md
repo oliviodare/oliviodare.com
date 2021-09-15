@@ -2,7 +2,7 @@
 
 
 ### Biodiversity PhD project, and opening my personal knowledge-in-the-making
-See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself.
+See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself. (I've only started in September 2021, so there's not much to say for the moment...).
 
 One of my aims in my PhD is making my research process transparent and open. Open Science has made the rounds as the new research ethos of some branches of science, and has specially been taken up in the natural sciences, specially those dealing with quantitative experimentation. I want to contribute to making the humanities more open too –not in the same way, of course, but reappropiating tools and ideas from the natural sciences and fitting them to my needs. Concretely, I have a sort of <a href="https://github.com/oliviodare/MakingKnowledge" target="_blank">'open lab book' on GitHub</a>, with annotations of my readings and the interpretations of sources. It's still an evolving project, and I still haven't figured out what is the best way to present all of it. If you have any ideas or experience with (humaities) open lab books, do <a href="https://www.oliviodare.com/#socials-and-getting-in-touch" target="_blank">get in touch!</a>
 
