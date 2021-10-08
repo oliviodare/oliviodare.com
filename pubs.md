@@ -27,10 +27,12 @@ Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in th
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
 A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM" target="_blank">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TMGaNvo-SgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
 “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
-Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” <a href="https://youtu.be/BsdnXtBwKAc?t=4152" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4152</a>.
+Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” Watch it back: <a href="https://youtu.be/BsdnXtBwKAc?t=4152" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4152</a>.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BsdnXtBwKAc?start=4152" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
