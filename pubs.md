@@ -20,7 +20,9 @@ with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, 
 ### 2021
 **Speaker, British Society for the History of Science, July 13.**  
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”  
-Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.”  
+Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” Watch it back: <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank">https://youtu.be/0Bhw1H8JuJU</a>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Bhw1H8JuJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Host and organiser, Journal of Trial and Error events, June 15.**   
