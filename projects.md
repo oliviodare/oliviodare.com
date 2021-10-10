@@ -1,7 +1,10 @@
-# projects
+---
+layout: default
+title: projects
+---
 
 
-### Biodiversity PhD project, and opening my personal knowledge-in-the-making
+## Biodiversity PhD project, and opening my personal knowledge-in-the-making
 See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 
 One of my aims during my PhD is to make my research process transparent and open. Open Science has made the rounds as the new research ethos of the natural sciences and has especially been taken up by those working in quantitative and experimental fields (with highly normative banners such as "Open Science is just science done right!"). Despite my reservations about Open Science being overly focused on methods, I want to contribute to making the humanities more open too –not in the same way, of course, but reappropriating tools and ideas from the natural sciences and fitting them to my needs. Concretely, I have a sort of <a href="https://github.com/oliviodare/MakingKnowledge" target="_blank">'open lab book' on GitHub</a>, with annotations of my readings and the interpretations of sources. It's still an evolving project, and I still haven't figured out what is the best way to present all of it. At the moment, it seems quite messy and not very useful for anybody who isn't me... If you have any ideas or experience with (humanities) open lab books, do <a href="https://www.oliviodare.com/#socials-and-getting-in-touch" target="_blank">get in touch!</a>
@@ -9,14 +12,14 @@ One of my aims during my PhD is to make my research process transparent and open
 I am using a (not very refined) Zettelkasten method to take notes, making my notes 'atomistic'. This means that individual notes contain only one idea, claim, or concept (for example, the one called '<a href="https://github.com/oliviodare/MakingKnowledge/blob/main/making%20lists%20is%20a%20precondition%20and%20one%20of%20the%20initial%20steps%20of%20practices%20of%20conservation.md" target="_blank">making lists is a precondition and one of the initial steps of practices of conservation</a>') and that they are connected with other notes (the note in the example above is connected with '<a href="https://github.com/oliviodare/MakingKnowledge/blob/main/one%20of%20the%20main%20issues%20of%20conservation%20biology%20is%20dealing%20with%20funding,%20which%20is%20dealt%20with%20by%20setting%20'conservation%20priorities'.md" target="_blank">one of the main issues of conservation biology is dealing with funding, which is dealt with by setting 'conservation priorities'</a>'). The idea is to have a large network of highly connected simple notes, which helps to draw relations between ideas and helps in creating new ones. The network, as well as the individual notes, change over time, which I think it's very interesting and useful. Knowledge-making is a dynamic process, so it's worth exploring how representation of knowledge can be also dynamic and adaptable.  
 
 
-### Journal (and Center) of Trial and Error
+## Journal (and Center) of Trial and Error
 I am involved, curious, sceptical, and hopeful (?) about the movement of Open Science, motivated especially by its possibility to exert fertile political change. In the context of the Dutch OS scene –which is big– I got enthusiastic enough to start and develop with other madmen the <a href="https://www.jtrialerror.com/" target="_blank">*Journal of Trial and Error*</a>. JOTE, for short, is a project that explores how far can collectives push for transparency - and its limits, its drawbacks, and its necessary successes. We wanted to change the way academics think of success and failure, but we didn't want simply to sell a story of failure-as-a-precondition-of-success. We wanted people to see how competitive research has gotten and the effects of such an environment.
 
-As its ~~current~~ Creative Director, I coordinate*d* the communication strategy, journal design, and development of the digital infrastructures. 
+As its ~~current~~ Creative Director, I coordinate*d* the communication strategy, journal design, and development of the digital infrastructures.
 
 ***Journal --> Center***  
 At the moment, we are busy turning the Journal into a Center. Our activities go beyond publishing a yearly issue – our team has grown to more than a dozen researchers and are involved in **teaching** (currently designing a course on the history, sociology and philosophy of academic publishing at Utrecht University and a seminar on the philosophy of the scientific method at Heidelberg University), **publishing** (partners of <a href="https://openpresstiu.pubpub.org/" target="_blank">Open Publishing Press from Tilburg University</a>), **hosting events** (see the <a href="https://www.jtrialerror.com/debate/" target="_blank">debate</a> we organised on transparency metrics and OS rankings), and other kinds of **partnerships** (e.g., with the <a href="https://www.jtrialerror.com/collaborations#dnus" target="_blank">De Nieuwe Utrechtse School</a>). In short, we are more than a publishing platform and the Journal of Trial and Error is part of a larger digital community engaged in rethinking academic success.
 
 
 
-### More in the works ...
+## More in the works ...
