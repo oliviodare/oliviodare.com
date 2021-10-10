@@ -5,7 +5,7 @@ title: Home
 
 # Hello, my name is Max.
 
-Welcome to this small Github repository, which now acts as my website. My name is Max Bautista Perpinyà and I am a PhD researcher in the history of science, based in UCLouvain, in Belgium.
+Welcome to my website. My name is Max Bautista Perpinyà and I am a PhD researcher in the history of science, based in UCLouvain, in Belgium.
 
 On these pages, you'll find a sort of open CV. The basic structure is this:
 
