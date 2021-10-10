@@ -1,6 +1,8 @@
 ---
 layout: default
-title: bio
+title: bio | oliviodare
+description: Max Bautista Perpinyà's bio
+
 ---
 
 
