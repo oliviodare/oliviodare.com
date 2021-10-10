@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "22b539971b02e8cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f5e7bb031507aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pubs.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f71d3f129947967",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc06943bbdeeebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98659167ac5677e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0682677e330386b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2c44f5a015d6968",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db10f7b83ddeb0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c312e324b5c6ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pubs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09f5e7bb031507aa",
+  "lastOpenFiles": [
+    "pubs.md",
+    "projects.md",
+    "bio.md",
+    "1_ME.jpg",
+    "BautistaPerpinya_CV.pdf",
+    "404.md",
+    "index.md",
+    "attempt.md",
+    "Untitled.md",
+    "index.css.md"
+  ]
+}
