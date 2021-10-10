@@ -1,6 +1,7 @@
 ---
 layout: default
-title: pubs
+title: pubs | oliviodare
+description: Publications by Max Bautista Perpinyà
 ---
 
 ## academic pubs  

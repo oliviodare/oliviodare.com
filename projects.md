@@ -1,6 +1,8 @@
 ---
 layout: default
-title: projects
+title: projects | oliviodare
+description: Projects by Max Bautista Perpinyà
+
 ---
 
 

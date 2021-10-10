@@ -1,6 +1,6 @@
 ---
 layout: default
-title: oliviodare.com | Max Bautista Perpinyà
+title: oliviodare | Max Bautista Perpinyà
 description: Hello! I'm Max Bautista Perpinyà and I am a PhD researcher in the history of science, based in UCLouvain, in Belgium.
 
 
