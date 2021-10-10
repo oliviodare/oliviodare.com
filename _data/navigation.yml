@@ -1,8 +1,8 @@
-- name: home @ oliviodare.com
+- name: home
   link: /
-- name: bio @ oliviodare.com
+- name: bio
   link: /bio.html
-- name: projects @ oliviodare.com
+- name: projects
   link: /projects.html
-- name: pubs @ oliviodare.com
+- name: pubs
   link: /pubs.html
