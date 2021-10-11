@@ -9,7 +9,7 @@ description: Max Bautista Perpinyà's bio
 ## What I'm doing now
 Since September 2021 I doing my PhD in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium.
 
-I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
+I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different communities of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
 
 My PhD is part of a larger HPS project that aims at clarifying the '<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>' in conservation biology.  
 

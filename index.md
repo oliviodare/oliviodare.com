@@ -6,7 +6,7 @@ description: Hello! I'm Max Bautista Perpinyà, researcher (PhD student) in the 
 
 # Hello, my name is Max.
 
-My name is Max Bautista Perpinyà and I am a researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium. *Welcome my website*.
+My name is Max Bautista Perpinyà and I am a researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium. *Welcome to my website*.
 
 On these pages, you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.html).

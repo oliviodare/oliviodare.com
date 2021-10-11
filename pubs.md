@@ -11,9 +11,6 @@ description: Publications by Max Bautista Perpinyà
 [outreach](#outreach)
 <br>
 
-
-
-
 ## academic works
 ### 2020
 with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
@@ -25,7 +22,7 @@ with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, 
 ## talks & events  
 ### 2021
 **Speaker, British Society for the History of Science, July 13.**  
-“‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”  
+“‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”
 Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” Watch it back: <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank">https://youtu.be/0Bhw1H8JuJU</a>
 
 <iframe width="300" height="168" src="https://www.youtube-nocookie.com/embed/0Bhw1H8JuJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
