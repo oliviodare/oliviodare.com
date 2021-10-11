@@ -24,11 +24,12 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-nav {
-	position: relative;
-	top:9px;
-	text-align: left;
+/* define variables */
+:root {
+  --brokenwhite: #fbf6f5;
 }
+
+
 .current {
   text-decoration: none;
 }
@@ -41,8 +42,19 @@ body  {
 	line-height: 1.5em;
 	font-family: Avenir,Verdana,sans-serif;
   max-width: 50%;
-	margin-left: 4%;
-  margin-bottom: 40px;
+	margin-left: 14%;
+  margin-bottom: 80px;
+	background-color: var(--brokenwhite);
+}
+
+nav {
+  background: var(--brokenwhite);
+	padding-top: 10px;
+	/*uncomment for fixed nav bar
+	position: fixed;
+  padding-bottom: 14px;
+  padding-right: 600px;*/
+
 }
 
 a {
@@ -62,7 +74,7 @@ a:hover {
 h1 {
   font-size: 3.5em;
   font-weight: bold;
-  margin-top: 100px;
+  margin-top: 75px;
   margin-bottom: 20px;
 	line-height: 0.9em;
 }
@@ -78,14 +90,46 @@ h2 {
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: bold;
   margin-top: 40px;
-  margin-bottom: 12px;
+  margin-bottom: 9px;
 }
 
 ul {
 	margin-left:30px;
 	margin-top: 4px;
 	max-width: 80%;
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
+		max-width: 73%;
+		line-height: 2.4em;
+		margin-left: 12%
+  }
+
+	nav {
+		font-size: 2.4em;
+		padding-top: 35px;
+	}
+
+	h2 {
+	  margin-top: 90px;
+	  margin-bottom: 24px;
+	}
+
+	p {
+		margin-bottom: 32px;
+		font-size: 0.9em;
+	}
+
+	ul {
+		font-size: 0.9em;
+		margin-left:70px;
+		margin-top: 4px;
+		max-width: 80%;
+	}
+
 }

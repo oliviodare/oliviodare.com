@@ -4,9 +4,17 @@ title: pubs | oliviodare
 description: Publications by Max Bautista Perpinyà
 ---
 
-## academic pubs  
+[academic works](#academic-works)
+
+[talks & events](#talks--events)
+
+[outreach](#outreach)
+<br>
 
 
+
+
+## academic works
 ### 2020
 with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
 “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.  
@@ -14,21 +22,15 @@ with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van d
 with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
 “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
 
----
-<br>
-
-## talks  
-
+## talks & events  
 ### 2021
 **Speaker, British Society for the History of Science, July 13.**  
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”  
 Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.”  
 
-
 **Host and organiser, Journal of Trial and Error events, June 15.**   
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
 A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: <a href="https://www.youtube.com/watch?v=TMGaNvo-SgM" target="_blank">https://www.youtube.com/watch?v=TMGaNvo-SgM</a>.
-
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
 “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
@@ -62,11 +64,7 @@ Roundtable – “Sistemas latinoamericanos de indexación: ética o estétic
 “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”.   
 Annual Graduate Student Symposium.
 
----
-
-<br>
-
-## journalistic pubs   
+## outreach
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?</a>” _Journal of Trial and Error_.  
 
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/" target="_blank">JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.</a>” _Journal of Trial and Error_.  
