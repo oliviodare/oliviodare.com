@@ -82,12 +82,14 @@ h4, h5 {
 	position: absolute;
 	top: 171px;
 	right: 19px;
+	z-index: -1;
 }
 
 h5 {
 	color: #03B5AA;
 	top: 206px;
 	right: -1px;
+	z-index: -1;
 }
 
 
@@ -124,18 +126,20 @@ ul {
 @media only screen and (max-width: 1300px) {
   body {
     overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
-		max-width: 73%;
+		max-width: 75%;
 		line-height: 2.4em;
-		margin-left: 12%;
+		margin-left: 10%;
   }
 
 	nav {
 		font-size: 2.55em;
 		padding-top: 37px;
+		padding-bottom: 80px;
+    word-spacing: 17px;
 	}
 
 	h2 {
-	  margin-top: 90px;
+	  margin-top: 80px;
 	  margin-bottom: 24px;
 	}
 
@@ -160,12 +164,12 @@ ul {
     word-wrap: break-word;
     width: 611px;
     position: absolute;
-    top: 209px;
+    top: 132px;
     right: 1px;
 	}
 
 	h5 {
-		top: 229px;
+		top: 159px;
 		right: -19px;
 	}
 
