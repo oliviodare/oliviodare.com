@@ -2,9 +2,7 @@
 layout: default
 title: bio | oliviodare
 description: Max Bautista Perpinyà's bio
-
 ---
-
 
 ## What I'm doing now
 Since September 2021 I doing my PhD in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium.
@@ -22,3 +20,8 @@ Before studying History and Philosophy of Science, I had studied an MSc in Neuro
 
 ## If you are interested
 _<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my formal CV here.</a>_
+
+
+
+#### bio
+##### bio

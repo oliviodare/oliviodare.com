@@ -3,7 +3,6 @@ layout: default
 title: pubs | oliviodare
 description: Publications by Max Bautista Perpinyà
 ---
-
 [academic works](#academic-works)
 
 [talks & events](#talks--events)
@@ -81,3 +80,7 @@ Blogpost (2020). “<a href="https://openscience-utrecht.com/open-science-sympos
 Editorial, with Martijn van der Meer (2019). “<a href="https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/" target="_blank">Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.</a>” _Journal of Trial and Error_.  
 
 Blogpost (2020). “Holanda Abierta.” Post in blog of association ‘Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)’.
+
+
+#### pubs
+##### pubs

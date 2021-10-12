@@ -5,7 +5,6 @@ description: Projects by Max Bautista Perpinyà
 
 ---
 
-
 ## Biodiversity PhD project, and opening my personal knowledge-in-the-making
 See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 
@@ -25,3 +24,6 @@ Also with colleagues from JOTE, I coordinate our collaboration with the Translat
 
 ### Experimenting with publishing in education
 The JOTE team (concretely, *JOTE Publishers*) became partners with the <a href="https://www.openpresstiu.org/" target="_blank">Open Publishing Press from Tilburg University</a> to design, edit, and publish an open educational and open-ended handbook for first-years philosophy bachelors: [*Second Thoughts. First Introductions to Philosophy*](https://openpresstiu.pubpub.org/secondthoughts) (2021, Maureen Sie & Bart Engelen, Eds.). I was involved in setting up the interactive site where students and teachers can engage with the book.
+
+#### projects
+##### projects

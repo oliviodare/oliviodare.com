@@ -71,6 +71,26 @@ a:hover {
 }
 
 
+h4, h5 {
+  font-size: 24em;
+  font-weight: bold;
+	opacity: 7%;
+	line-height: 0.66em;
+	display: block;
+	word-wrap: break-word;
+	width: 824px;
+	position: absolute;
+	top: 171px;
+	right: 19px;
+}
+
+h5 {
+	color: #03B5AA;
+	top: 206px;
+	right: -1px;
+}
+
+
 h1 {
   font-size: 3.5em;
   font-weight: bold;
@@ -78,7 +98,6 @@ h1 {
   margin-bottom: 20px;
 	line-height: 0.9em;
 }
-
 
 h2 {
   font-size: 2em;
@@ -102,12 +121,12 @@ ul {
 	max-width: 80%;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1300px) {
   body {
     overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 73%;
 		line-height: 2.4em;
-		margin-left: 12%
+		margin-left: 12%;
   }
 
 	nav {
@@ -122,14 +141,33 @@ ul {
 
 	p {
 		margin-bottom: 32px;
-		font-size: 0.9em;
+		font-size: 1.4em;
 	}
 
 	ul {
-		font-size: 0.9em;
+		font-size: 1.4em;
 		margin-left:70px;
 		margin-top: 4px;
 		max-width: 80%;
 	}
+
+	h4, h5 {
+    font-size: 19em;
+    font-weight: bold;
+    opacity: 7%;
+    line-height: 0.72em;
+    display: block;
+    word-wrap: break-word;
+    width: 611px;
+    position: absolute;
+    top: 209px;
+    right: 1px;
+	}
+
+	h5 {
+		top: 229px;
+		right: -19px;
+	}
+
 
 }
