@@ -81,7 +81,7 @@ h4, h5 {
 	width: 824px;
 	position: absolute;
 	top: 171px;
-	right: 19px;
+	right: 1%;
 	z-index: -1;
 	text-align: right;
 
@@ -125,6 +125,8 @@ ul {
 	max-width: 80%;
 }
 
+
+/* responsive for mobile*/
 @media only screen and (max-width: 1300px) {
   body {
     overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
@@ -176,9 +178,17 @@ ul {
 		right: -18px;
 	}
 
-	iframe {
-		display: none;
+}
+
+/* responsive for large screens*/
+@media only screen and (min-width : 1524px) {
+
+	h4, h5 {
+		right: 11%;
+
 	}
 
-
+	h5 {
+		right: 9%;
+	}
 }
