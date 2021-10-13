@@ -124,6 +124,24 @@ ul {
 	max-width: 80%;
 }
 
+img[src="face2.png"] {
+	position: relative;
+	bottom: 369px;
+	left: 740px;
+	mix-blend-mode: hard-light;
+	width: 400px;
+	height: auto;
+}
+
+img[src="room.png"] {
+	position: relative;
+	bottom: 599px;
+	left: 790px;
+	width: 420px;
+	height: auto;
+}
+
+
 
 /* responsive for mobile*/
 @media only screen and (max-width: 1300px) {
@@ -177,9 +195,24 @@ ul {
 		right: -18px;
 	}
 
+	img[src="face2.png"] {
+		position: inherit;
+		padding-top: 50px;
+		width: 700px;
+		height: auto;
+	}
+
+	img[src="room.png"] {
+		position: inherit;
+		padding-top: 50px;
+		width: 700px;
+		height: auto;
+	}
+
+
 }
 
-/* responsive for large screens*/
+/* responsive for large screens (zoom at 80%)*/
 @media only screen and (min-width : 1524px) {
 
 	h4, h5 {
@@ -189,5 +222,22 @@ ul {
 
 	h5 {
 		right: 9%;
+	}
+
+	img[src="face2.png"] {
+		position: relative;
+		bottom: 409px;
+		left: 980px;
+		width: 480px;
+		height: auto;
+	}
+
+	img[src="room.png"] {
+		position: relative;
+		bottom: 489px;
+		left: 980px;
+		width: 480px;
+		height: auto;
+		right: 9%
 	}
 }

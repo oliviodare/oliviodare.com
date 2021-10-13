@@ -25,3 +25,5 @@ _<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my form
 
 #### bio
 ##### bio
+
+![](room.png)
