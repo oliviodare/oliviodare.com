@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Max Bautista Perpinyà | oliviodare
-description: Hello! I'm Max Bautista Perpinyà, researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium, working on the history of biodiversity.
+description: Hello! I'm Max Bautista Perpinyà, PhD student in the History and Philosophy of Science @ UCLouvain (Belgium), working on the history of biodiversity.
 ---
 
 # Hello, my name is Max.
