@@ -65,6 +65,8 @@ Roundtable – “Sistemas latinoamericanos de indexación: ética o estétic
 Annual Graduate Student Symposium.
 
 ## outreach
+Blogpost (2021). “<a href="http://eseh.org/online-conferences-wont-do-it-instead-of-sustainable-academic-history-we-need-engaged-historians-working-less-and-collaborating-with-activists/" target="_blank">Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists</a>”, Sustainable Academia seires, _Next Generation Action Team (NEXTGATe), European Society for Environmental History_ and _Historians for Future_.  
+
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?</a>” _Journal of Trial and Error_.  
 
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/" target="_blank">JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.</a>” _Journal of Trial and Error_.  
