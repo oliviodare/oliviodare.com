@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09f5e7bb031507aa",
+        "id": "147f2cab7ca2af4f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pubs.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09f5e7bb031507aa",
+  "active": "147f2cab7ca2af4f",
   "lastOpenFiles": [
-    "pubs.md",
-    "projects.md",
-    "bio.md",
-    "1_ME.jpg",
-    "BautistaPerpinya_CV.pdf",
     "404.md",
+    "bern.png",
+    "bio.md",
+    "face.png",
+    "face2.png",
     "index.md",
-    "attempt.md",
-    "Untitled.md",
-    "index.css.md"
+    "pubs.md",
+    "README.md",
+    "room.png",
+    "projects.md"
   ]
 }
