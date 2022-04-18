@@ -19,20 +19,28 @@ with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, 
 “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
 
 ## talks & events  
+### 2022
+**Speaker, III Congreso de la Red  
+España de Historia Ambiental de España, May 11-13.**  
+“‘Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
+Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
+
 ### 2021
 **Speaker, British Society for the History of Science, July 13.**  
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”
 Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” Watch it back: <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank">https://youtu.be/0Bhw1H8JuJU</a>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/0Bhw1H8JuJU" frameborder="0" allowfullscreen></iframe>
 
 
 **Host and organiser, Journal of Trial and Error events, June 15.**   
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
 A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: <a href="https://youtu.be/TMGaNvo-SgM" target="_blank">https://youtu.be/TMGaNvo-SgM</a>.
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/TMGaNvo-SgM" frameborder="0" allowfullscreen></iframe>
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
 “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
 Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” Watch it back: <a href="https://youtu.be/BsdnXtBwKAc?t=4152" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4152</a>.
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BsdnXtBwKAc?start=4132" frameborder="0" allowfullscreen></iframe>
 
 
 

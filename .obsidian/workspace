@@ -7,8 +7,11 @@
         "id": "147f2cab7ca2af4f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pubs.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +88,13 @@
   },
   "active": "147f2cab7ca2af4f",
   "lastOpenFiles": [
+    "pubs.md",
     "404.md",
     "bern.png",
     "bio.md",
     "face.png",
     "face2.png",
     "index.md",
-    "pubs.md",
     "README.md",
     "room.png",
     "projects.md"
