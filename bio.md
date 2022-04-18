@@ -25,4 +25,4 @@ _<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my form
 #### bio
 ##### bio
 
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/room.png)
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png)
