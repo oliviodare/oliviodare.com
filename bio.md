@@ -19,7 +19,7 @@ Before studying History and Philosophy of Science, I had studied an MSc in Neuro
 
 
 ## If you are interested
-_<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my formal CV here.</a>_
+<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my formal CV **here**.</a>
 
 
 #### bio
