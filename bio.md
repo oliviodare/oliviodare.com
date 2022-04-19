@@ -18,8 +18,8 @@ In 2020 I graduated with Cum Laude from the research master History and Philosop
 Before studying History and Philosophy of Science, I had studied an MSc in Neuroscience in Strasbourg and a BSc in Biological Sciences in Maastricht. But for a long time, I think I had always been interested in how people communicate within and about science. In the big-picture, I want to understand how knowledge is (and isn't) politically put into effect. The theme of communication of knowledge is deeply embedded in the practices of sciences, such as how researchers read, write, and commercialise research objects.  
 
 
-## If you are interested
-<a href="https://oliviodare.github.io/cv/" target="_blank">you can view my formal CV **here**.</a>
+## If you are interested...
+... you can view my formal CV <a href="https://oliviodare.github.io/cv/" target="_blank">here.</a>
 
 
 #### bio
