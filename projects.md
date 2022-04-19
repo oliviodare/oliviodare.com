@@ -5,7 +5,7 @@ description: Projects by Max Bautista Perpinyà
 
 ---
 
-## Biodiversity PhD project, and opening my personal knowledge-in-the-making
+## Biodiversity PhD project, and opening my personal process of _knowledge-in-the-making_
 See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 
 One of my aims during my PhD is to make my research process transparent and open. Open Science has made the rounds as the new research ethos of the natural sciences and has especially been taken up by those working in quantitative and experimental fields (with highly normative banners such as "Open Science is just science done right!"). Despite my reservations about Open Science being overly focused on methods, I want to contribute to making the humanities more open too –not in the same way, of course, but reappropriating tools and ideas from the natural sciences and fitting them to my needs. Concretely, I have a sort of <a href="https://github.com/oliviodare/MakingKnowledge" target="_blank">'open lab book' on GitHub</a>, with annotations of my readings and the interpretations of sources. It's still an evolving project, and I still haven't figured out what is the best way to present all of it. At the moment, it seems quite messy and not very useful for anybody who isn't me... If you have any ideas or experience with (humanities) open lab books, do <a href="https://www.oliviodare.com/#socials-and-getting-in-touch" target="_blank">get in touch!</a>
