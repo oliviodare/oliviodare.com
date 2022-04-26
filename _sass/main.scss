@@ -26,13 +26,26 @@ footer, header, hgroup, menu, nav, section {
 
 /* define variables */
 :root {
-  --brokenwhite: #fbf6f5;
+  --mybckground: #fbf6f5;
+	--myblack: #1d1d1d;
+	--myhovercolor: #03B5AA;
+	--myhovertime: 0.8s;
+
+	--mybckground: #0059FF;
+	--myblack: white;
+	--myhovercolor: #F2A541;
+	--myhovertime: 0s;
 }
 
 
 .current {
   text-decoration: none;
 }
+
+html {
+	background: var(--myhovercolor);
+}
+
 
 body  {
 	/*font: normal normal 400;*/
@@ -41,14 +54,19 @@ body  {
 	font-size: 100%;
 	line-height: 1.5em;
 	font-family: Avenir,Verdana,sans-serif;
+	position: relative;
+	left: 14%;
   max-width: 50%;
-	margin-left: 14%;
+	padding: 1%;
+	padding-right:7%;
   /*margin-bottom: 80px;*/
-	background-color: var(--brokenwhite);
+	background-color: var(--mybckground);
+	color: var(--myblack);
+
 }
 
 nav {
-  background: var(--brokenwhite);
+  background: var(--mybckground);
 	padding-top: 10px;
 	/*uncomment for fixed nav bar
 	position: fixed;
@@ -58,7 +76,7 @@ nav {
 }
 
 a {
-	color: #1d1d1d;
+	color: var(--myblack);
 	word-break: break-all;
 }
 
@@ -68,8 +86,8 @@ p {
 }
 
 a:hover {
-	color:#03B5AA;
-	transition-duration: 0.8s;
+	color:var(--myhovercolor);
+	transition-duration: var(--myhovertime);
 }
 
 
@@ -90,12 +108,15 @@ h4, h5 {
 }
 
 h5 {
-	color: #03B5AA;
+	color: var(--myhovercolor);
 	top: 206px;
 	right: -1px;
 	z-index: -1;
 }
 
+h4, h5 {
+	display: none;
+}
 
 h1 {
   font-size: 3.5em;
@@ -153,8 +174,10 @@ img[src="/room.png"] {
     // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 92%;
 		line-height: 2.4em;
-		margin-left: 5%;
-		margin-right: 5%;
+		margin-left: 0%;
+		position: relative;
+		left: 4%;
+		margin-right: 0%;
   }
 
 	nav {
@@ -168,7 +191,7 @@ img[src="/room.png"] {
 		z-index: 1;
 		width: 100%;
 
-		border-bottom: 5px solid #1d1d1d; /* Don't forget to modify to the right border. */
+		border-bottom: 5px solid var(--myblack); /* Don't forget to modify to the right border. */
 
 	}
 
@@ -234,6 +257,11 @@ img[src="/room.png"] {
 		right: -18px;
 	}
 
+	h4, h5 {
+		display: none;
+	}
+
+
 	img[src="/face2.png"] {
 		position: inherit;
 		padding-top: 50px;
@@ -261,12 +289,16 @@ img[src="/room.png"] {
 
 	h4, h5 {
 		right: 11%;
-
 	}
 
 	h5 {
 		right: 9%;
 	}
+
+	h4, h5 {
+		display: none;
+	}
+
 
 	img[src="/face2.png"] {
 		position: relative;
