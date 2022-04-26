@@ -285,15 +285,3 @@ img[src="/room.png"] {
 		right: 9%
 	}
 }
-
-
-@media not all and (min-resolution:.001dpcm)
-{ @supports (-webkit-appearance:none) {
-
-    h4, h5 {
-
-        color:#0000FF;
-        background-color:#CCCCCC;
-
-    }
-}}
