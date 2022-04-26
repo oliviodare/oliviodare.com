@@ -59,7 +59,9 @@ nav {
 
 a {
 	color: #1d1d1d;
+	word-break: break-all;
 }
+
 
 p {
 	margin-bottom: 15px;
@@ -148,7 +150,7 @@ img[src="/room.png"] {
 /* responsive for mobile*/
 @media only screen and (max-width: 1300px) {
   body {
-    overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
+    // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 92%;
 		line-height: 2.4em;
 		margin-left: 5%;
@@ -158,16 +160,37 @@ img[src="/room.png"] {
 	nav {
 		font-size: 3.55em;
 		padding-top: 52px;
-		padding-bottom: 1px;
+		padding-bottom: 60px;
     word-spacing: 42px;
+		position:sticky;
+		position: -webkit-sticky;
+		top: 0;
+		z-index: 1;
+		width: 100%;
+
+		border-bottom: 5px solid #1d1d1d; /* Don't forget to modify to the right border. */
+
+	}
+
+	.hyphenate {
+	  /* Careful, this breaks the word wherever it is without a hyphen */
+	  overflow-wrap: break-word;
+	  word-wrap: break-word;
+
+	  /* Adds a hyphen where the word breaks */
+	  -webkit-hyphens: auto;
+	  -ms-hyphens: auto;
+	  -moz-hyphens: auto;
+	  hyphens: auto;
 	}
 
 	h1 {
-		font-size: 4.5em;
+		font-size: 4.6em;
 	}
 	h2 {
 	  margin-top: 80px;
 	  margin-bottom: 24px;
+		font-size: 3.3em;
 	}
 
 	p {
