@@ -6,3 +6,10 @@
   link: /projects.html
 - name: pubs
   link: /pubs.html
+  subfolderitems:
+      - page: academic works
+        url: /pubs.html#academic-works
+      - page: talks & events
+        url: /pubs.html#talks--events
+      - page: outreach
+        url: /pubs.html#outreach

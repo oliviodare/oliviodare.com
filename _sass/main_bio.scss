@@ -67,6 +67,7 @@ body  {
 	color: var(--myblack);
 }
 
+
 nav {
   background: var(--mybckground);
 	padding-top: 4%;
@@ -75,8 +76,12 @@ nav {
 	position: fixed;
   padding-bottom: 14px;
   padding-right: 600px;*/
-
+	// display: flex;
 }
+
+
+
+
 
 a {
 	color: var(--myblack);
@@ -180,6 +185,7 @@ img[src="/room.png"] {
 	bottom: 70px;
 	height: auto;
 }
+
 
 
 
