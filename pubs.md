@@ -1,14 +1,8 @@
 ---
-layout: default
+layout: default_bio
 title: pubs | oliviodare
 description: Publications by Max Bautista Perpinyà
 ---
-[academic works](#academic-works)
-
-[talks & events](#talks--events)
-
-[outreach](#outreach)
-<br>
 
 ## academic works
 ### 2020

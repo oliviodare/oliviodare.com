@@ -6,7 +6,11 @@ description: Hello! I'm Max Bautista Perpinyà, PhD student in the History and P
 
 # Hello, my name is Max.
 
-My name is Max Bautista Perpinyà and I am a researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium. *Welcome to my website*.
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/room.png){: style="float: right"}
+
+My name is Max Bautista Perpinyà and I am a researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium.
+
+<p>Welcome to my web<span style="color: #F2A541">site</span>, built on a GitHub Page.</p> 
 
 On these pages, you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.html).
@@ -23,4 +27,4 @@ This is my <a href="https://github.com/oliviodare" target="_blank">Github profil
 This is the <a href="https://pencelab.be/" target="_blank">lab</a> where I'm currently working.   
 My email is max ·dot· bautista ·at· uclouvain ·dot· be
 
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/room.png)
+<!-- ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/room.png) -->

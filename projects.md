@@ -5,6 +5,12 @@ description: Projects by Max Bautista Perpinyà
 
 ---
 
+
+<h2>Please be patient, this is a page under constru<span style="color: #F2A541">ction.</span></h2>
+
+<br>
+
+
 ## Biodiversity PhD project, and opening my personal process of _knowledge-in-the-making_
 See my [bio](https://www.oliviodare.com/bio.html#what-im-doing-now) for a few lines on the project itself. (I've only started in September 2021, so there's not much to say for the moment in terms of content...).
 

@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: default_bio
 title: bio | oliviodare
 description: Max Bautista Perpinyà's bio
 ---
 
 ## What I'm doing now
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png){: style="float: right" }
+
 Since September 2021 I doing my PhD in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium.
 
 I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different communities of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
@@ -25,4 +27,4 @@ Before studying History and Philosophy of Science, I earned an MSc in Neuroscien
 #### bio
 ##### bio
 
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png)
+<!-- ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png) -->
