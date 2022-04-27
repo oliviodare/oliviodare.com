@@ -187,12 +187,13 @@ img[src="/room.png"] {
   body {
     // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 92%;
-		line-height: 2.4em;
-		margin-left: 0%;
+		line-height: 2em;
+		// margin-left: 0%;
 		position: relative;
 		left: 4%;
 		margin-right: 0%;
 		padding-top:182px !important;
+		padding-left: 4%;
   }
 
 	nav {
@@ -223,8 +224,11 @@ img[src="/room.png"] {
 	  hyphens: auto;
 	}
 
+
 	h1 {
-		font-size: 4.6em;
+		font-size: 5.2em;
+		padding-bottom: 58px;
+		padding-top: 120px;
 	}
 	h2 {
 	    margin-top: 80px;
@@ -244,8 +248,9 @@ img[src="/room.png"] {
 
 	p {
 		margin-bottom: 72px;
-		font-size: 3.1em;
+		font-size: 2.9em;
 		line-height: 2.5em;
+		padding-right:1%;
 		// font-weight: 400;
 	}
 
@@ -296,10 +301,10 @@ img[src="/room.png"] {
 		width: 700px;
 		height: auto;
 	}
+
 	img {
 		float: none !important;
 	}
-
 
 	iframe {
 		width:92%;
