@@ -1,12 +1,12 @@
 <!doctype html>
-<html>
+<html class="{% if page.style %}{{ page.style }} {% endif %}">
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% seo %}
   </head>
-  <body>
+  <body class="{% if page.style %}{{ page.style }} {% endif %}">
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% include navigation.html %}
     {{ content }}
