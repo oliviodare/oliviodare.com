@@ -45,6 +45,35 @@ footer, header, hgroup, menu, nav, section {
 	--myhovertime: 0s;
 }
 
+#blog-page ul {
+	list-style: none;
+	position: relative;
+	right: 1%;
+}
+
+#blog-page ul a {
+	font-size: 2em;
+	text-decoration: none;
+}
+
+// #blog-page ul p {
+// 	display: none;
+// }
+
+#blog-page ul li {
+	padding-top: 10px;
+}
+
+// #blog-page ul:hover {
+// 	border-left: 1px solid var(--myblack);
+// 	padding-left: 12px;
+// }
+
+// #blog-page ul:hover > li:nth-child(2) > p {
+// 	display: block;
+// }
+
+
 
 .current {
   text-decoration: none;
@@ -97,9 +126,9 @@ p {
 }
 
 p, h1, h2, h3, h4, h5 {
+	padding-right: 30%;
 	padding-right: 20%;
 }
-
 
 
 
@@ -121,9 +150,9 @@ code {
 	background-color: white;
 	position: fixed;
 	border: none;
-	height:3px;
+	height:1px;
 	left: 13%;
-	width: 50%;
+	width: 35%;
 	bottom: 50px; }
 
 .stickyfooter {
@@ -135,30 +164,6 @@ code {
 	padding-right: 1000px;
 	padding-bottom: 14px;
 }
-// h4, h5 {
-//   font-size: 24em;
-//   font-weight: bold;
-// 	opacity: 7%;
-// 	line-height: 0.66em;
-// 	display: block;
-// 	word-wrap: break-word;
-// 	width: 824px;
-// 	position: absolute;
-// 	top: 171px;
-// 	right: 1%;
-// 	z-index: -1;
-// 	text-align: right;
-//
-// }
-//
-// h5 {
-// 	color: var(--myhovercolor);
-// 	top: 206px;
-// 	right: -1px;
-// 	z-index: -1;
-// }
-
-
 
 h1 {
   font-size: 3.5em;
@@ -264,6 +269,7 @@ img[src="/room.png"] {
 		padding-bottom: 58px;
 		padding-top: 120px;
 	}
+
 	h2 {
 	    margin-top: 80px;
 	    position: sticky;
@@ -299,6 +305,24 @@ img[src="/room.png"] {
 		// font-weight: 400;
 
 	}
+
+	#blog-page ul a {
+		font-size: 1em;
+		text-decoration: underline;
+	}
+
+	#blog-page ul li {
+		padding-top: 10px;
+		line-height: 1.6em;
+	}
+
+	#blog-page p {
+		font-size: 0.9em;
+		line-height: 1.8em;
+		padding-left: 4%;
+	}
+
+
 
 	.stickyfooter {
 		font-size: 3.55em;

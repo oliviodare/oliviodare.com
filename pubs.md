@@ -1,7 +1,8 @@
 ---
 layout: default
-title: pubs | oliviodare
+<!-- title: pubs | oliviodare -->
 description: Publications by Max Bautista Perpinyà
+pageID: pubs-page
 ---
 
 ## academic works
@@ -22,18 +23,18 @@ Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
 **Speaker, British Society for the History of Science, July 13.**  
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”
 Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” Watch it back: <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank">https://youtu.be/0Bhw1H8JuJU</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/0Bhw1H8JuJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0Bhw1H8JuJU" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Host and organiser, Journal of Trial and Error events, June 15.**   
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
 A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: <a href="https://youtu.be/TMGaNvo-SgM" target="_blank">https://youtu.be/TMGaNvo-SgM</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/TMGaNvo-SgM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/TMGaNvo-SgM" style="border:0;" allowfullscreen></iframe>
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
 “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
 Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” Watch it back: <a href="https://youtu.be/BsdnXtBwKAc?t=4152" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4152</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/BsdnXtBwKAc?start=4132" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BsdnXtBwKAc?start=4132" style="border:0;" allowfullscreen></iframe>
 
 
 

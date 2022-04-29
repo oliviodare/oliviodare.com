@@ -2,7 +2,8 @@
 layout: default
 title: bio | oliviodare
 description: Max Bautista Perpinyà's bio
-style:  type2page         # orange background pages
+style:  type2page
+pageID: bio-page
 ---
 
 ## What I'm doing now
