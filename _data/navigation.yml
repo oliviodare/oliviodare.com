@@ -2,8 +2,6 @@
   link: /
 - name: bio
   link: /bio.html
-- name: projects
-  link: /projects.html
 - name: pubs
   link: /pubs.html
   subfolderitems:
@@ -13,3 +11,5 @@
         url: /pubs.html#talks--events
       - page: outreach
         url: /pubs.html#outreach
+- name: blog
+  link: /blog.html
