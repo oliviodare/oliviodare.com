@@ -45,6 +45,11 @@ footer, header, hgroup, menu, nav, section {
 	--myhovertime: 0s;
 }
 
+::selection {
+  background: var(--myblack);
+	color: var(--mybckground);
+}
+
 #blog-page ul {
 	list-style: none;
 	position: relative;
