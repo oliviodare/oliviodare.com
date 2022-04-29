@@ -1,5 +1,5 @@
 ---
-layout: default_bio
+layout: default
 title: pubs | oliviodare
 description: Publications by Max Bautista Perpinyà
 ---
@@ -14,8 +14,7 @@ with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, 
 
 ## talks & events  
 ### 2022
-**Speaker, III Congreso de la Red  
-España de Historia Ambiental de España, May 11-13.**  
+**Speaker, III Congreso de la Red  España de Historia Ambiental de España, May 11-13.**  
 “‘Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
 Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
 
@@ -78,7 +77,3 @@ Blogpost (2020). “<a href="https://openscience-utrecht.com/open-science-sympos
 Editorial, with Martijn van der Meer (2019). “<a href="https://www.jtrialerror.com/2019/09/30/are-we-facing-a-bigger-monster-the-journal-of-trial-and-error-visits-cambridge/" target="_blank">Are we facing a bigger monster? The Journal of Trial and Error visits Cambridge.</a>” _Journal of Trial and Error_.  
 
 Blogpost (2020). “Holanda Abierta.” Post in blog of association ‘Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)’.
-
-
-#### pubs
-##### pubs

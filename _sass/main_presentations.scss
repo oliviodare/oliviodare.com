@@ -1,0 +1,165 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, em, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/*font: inherit;*/
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/* define variables */
+:root {
+  --brokenwhite: #fbf6f5;
+}
+
+.container {
+   width: 100%;
+}
+
+
+
+
+body  {
+	/*font: normal normal 400;*/
+	width:100%;
+	height:100%;
+	font-family: normal;
+	font-weight: 300;
+	font-size: 100%;
+	line-height: 1.5em;
+	font-family: Avenir,Verdana,sans-serif;
+	max-width: 90%;
+	margin-left: 14%;
+	background-color: var(--brokenwhite);
+}
+nav {
+  background: var(--brokenwhite);
+	padding-top: 10px;
+	/*uncomment for fixed nav bar
+	position: fixed;
+  padding-bottom: 14px;
+  padding-right: 600px;*/
+
+}
+
+a {
+	color: #1d1d1d;
+}
+
+html {background-color: orange;}
+
+
+body {
+	background-color: lightblue;
+	padding:0;
+	margin:0;
+}
+
+body { min-height: 100vh; }
+
+
+
+
+p, ul, li {
+	margin-bottom: 15px;
+	font-size: 26pt;
+	line-height: normal;
+}
+
+
+
+h1 {
+  font-size: 4em;
+  font-weight: bold;
+  margin-top: 400px;
+  margin-bottom: 12px;
+	line-height: 0.98em;
+	// max-width: 78%;
+}
+
+
+h2 {
+	font-size: 2.5em;
+	font-weight: 400;
+	padding-top: 25px;
+	line-height: 0.9em;
+	position: relative;
+	// left: 14%;
+	text-align: right
+}
+
+
+
+h3 {
+  font-size: 1.25em;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 9px;
+}
+
+
+ul {
+	// margin-left:100px;
+	margin-top: 4px;
+	max-width: 80%;
+}
+
+
+
+
+
+.quote-paragraph {
+    background: #c1dde3;
+    color: black;
+		margin:59px;
+		margin-top:100px;
+    padding: 22px;
+    border-radius: 17px;
+}
+
+.citation-paragraph p {
+	font-size: 17pt;
+	margin-top: 56px;
+	// padding-left:20%;
+}
+
+
+
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+/*RUEDHA-SPECIFIC*/
