@@ -7,11 +7,13 @@ pageID: pubs-page
 
 ## academic works
 ### 2020
-“Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.  
-with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
+- “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.  
 
-“Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
-with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
+  - with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
+
+- “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
+
+  - with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
 
 ## talks & events  
 ### 2022

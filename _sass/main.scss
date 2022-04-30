@@ -69,6 +69,35 @@ footer, header, hgroup, menu, nav, section {
 	padding-top: 10px;
 }
 
+#pubs-page ul {
+	list-style: none;
+	position: relative;
+	// right: 1%;
+	// padding-top: 0;
+	// margin-top: 0;
+	// bottom: 13px;
+	// padding-bottom: 4%;
+	left: -3%;
+}
+
+#pubs-page body > ul > li > p {
+	margin-bottom: 0.6%;
+	padding-top:3%;
+}
+
+#pubs-page body > ul > li:nth-child(1) > p {
+	padding-top: 0.2%;
+}
+
+#pubs-page body > ul > li > ul > li {
+	position: relative;
+	left: 3%;
+}
+
+
+
+
+
 // #blog-page ul:hover {
 // 	border-left: 1px solid var(--myblack);
 // 	padding-left: 12px;
@@ -160,7 +189,7 @@ code {
 	width: 35%;
 	bottom: 50px; }
 
-.stickyfooter {
+.fixedfooter {
 	position:fixed;
 	bottom:-9px;
 	background-color: var(--mybckground);
@@ -278,6 +307,7 @@ img[src="/room.png"] {
 	h2 {
 	    margin-top: 80px;
 	    position: sticky;
+			position: -webkit-sticky;
 	    top: 148px !important;
 	    padding-bottom: 40px;
 	    font-size: 4.3em;
@@ -328,8 +358,7 @@ img[src="/room.png"] {
 	}
 
 
-
-	.stickyfooter {
+	.fixedfooter {
 		font-size: 3.55em;
     position: fixed;
     left: 0;
