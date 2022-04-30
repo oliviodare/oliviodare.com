@@ -357,6 +357,33 @@ img[src="/room.png"] {
 		padding-left: 4%;
 	}
 
+	#pubs-page body > ul > li > p {
+		font-size: 0.9em;
+		line-height: 2.3em;
+		width: 130%
+	}
+
+	#pubs-page ul {
+	    list-style: none;
+	    position: relative;
+			margin-left: 4%;
+	    // right: 6%;
+			// margin-left: 0;
+	}
+
+#pubs-page body > ul > li > p {
+	padding-top: 20%;
+}
+#pubs-page body > ul > li > ul > li {
+	width: 140%
+}
+
+#pubs-page body > ul > li > ul {
+	font-size: 0.9em;
+	line-height: 2.2em;
+	margin-left: 1.9em;
+}
+
 
 	.fixedfooter {
 		font-size: 3.55em;
