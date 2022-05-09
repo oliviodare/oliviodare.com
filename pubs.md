@@ -24,21 +24,15 @@ Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
 ### 2021
 **Speaker, British Society for the History of Science, July 13.**  
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”
-Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” Watch it back: <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank">https://youtu.be/0Bhw1H8JuJU</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/0Bhw1H8JuJU" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank"> <img src="{{ oliviodare.com }}/youtube-icon.png" width="20" style="position: relative; top: 4px; padding-right: 5px">https://youtu.be/0Bhw1H8JuJU</a>.
 
 **Host and organiser, Journal of Trial and Error events, June 15.**   
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
-A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). Watch it back: <a href="https://youtu.be/TMGaNvo-SgM" target="_blank">https://youtu.be/TMGaNvo-SgM</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/TMGaNvo-SgM" style="border:0;" allowfullscreen></iframe>
+A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). <a href="https://youtu.be/TMGaNvo-SgM" target="_blank"> <img src="{{ oliviodare.com }}/youtube-icon.png" width="20" style="position: relative; top: 4px; padding-right: 5px">https://youtu.be/TMGaNvo-SgM</a>.
 
 **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular, February 2.**  
 “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
-Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” Watch it back: <a href="https://youtu.be/BsdnXtBwKAc?t=4152" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4152</a>.
-<iframe width="420" height="315" src="https://www.youtube.com/embed/BsdnXtBwKAc?start=4132" style="border:0;" allowfullscreen></iframe>
-
-
+Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” <a href="https://youtu.be/BsdnXtBwKAc?t=4129" target="_blank"> <img src="{{ oliviodare.com }}/youtube-icon.png" width="20" style="position: relative; top: 4px; padding-right: 5px">https://youtu.be/BsdnXtBwKAc?t=4129</a>.
 
 ### 2020
 **Speaker, Descartes Centre for the History and Philosophy of the Sciences and the Humanities, October 29.**   

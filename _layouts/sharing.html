@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en" class="{% if page.style %}{{ page.style }}{% endif %}" id="{% if page.pageID %}{{ page.pageID }}{% endif %}">
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -8,8 +8,6 @@
   </head>
   <body>
     <link rel="stylesheet" href="/assets/css/styles_presentations.css">
-    <br>
-    <br>
     {{ content }}
   </body>
 </html>
