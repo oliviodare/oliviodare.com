@@ -9,9 +9,9 @@ pageID: home-page
 
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/room.png){: style="float: right"}
 
-My name is Max Bautista Perpinyà and I am a researcher (PhD student) in the History and Philosophy of Science, based in UCLouvain, in Belgium. Welcome to my website, built using GitHub Pages/Jekyll.
+My name is Max Bautista Perpinyà and I am a PhD student in the History and Philosophy of Science, based in UCLouvain, in Belgium. I am an 'Aspirant' Fellow of the FNRS. 
 
-On these pages, you'll find a sort of open CV. The basic structure is this:
+Welcome to my website, built using GitHub Pages/Jekyll. On these pages, you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.html).
 - a [list](pubs.html) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
 - a [blog](blog.html) (a *blog*? is it 2010?)
