@@ -9,7 +9,7 @@ pageID: bio-page
 ## What I'm doing now
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png){: style="float: right" }
 
-In September 2021 I started my PhD in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. In 2022 I was granted the Aspirant Doctoral Fellowhship of the FNRS (Fonds National de la Recherche Scientifique).
+In September 2021 I started my PhD in History and Philosophy of Science at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. In 2022 I was granted the 'Aspirant' Doctoral Fellowhship of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).
 
 I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different communities of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.
 
