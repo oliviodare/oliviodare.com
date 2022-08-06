@@ -18,7 +18,7 @@ pageID: pubs-page
 ## talks & events  
 ### 2022
 **Speaker, III Congreso de la Red  España de Historia Ambiental de España, May 11-13.**  
-“‘Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
+“Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
 Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
 
 ### 2021
