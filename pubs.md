@@ -16,7 +16,16 @@ pageID: pubs-page
   - with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
 
 ## talks & events  
+### 2023
+**Speaker, 9th PhD Conference in History of Science and Humanities, April 20-21.**  
+“Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
+
 ### 2022
+**Speaker, 10th conference of the European Society for the History of Science, September 7-10.**  
+““Straight trunks” and “original biocenosis”: production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
+Session – “Sustainability and Biodiversity.”
+
+
 **Speaker, III Congreso de la Red  España de Historia Ambiental de España, May 11-13.**  
 “Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
 Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
