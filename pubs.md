@@ -23,25 +23,25 @@ pageID: pubs-page
 ## talks & events  
 ### 2023
 **Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value**, Brussels, October 20-21. <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
-- Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
+Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
 
 **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
-- “Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
+“Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
 
 ### 2022
 **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
-- “'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
-- Session – “Sustainability and Biodiversity.”
+“'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
+Session – “Sustainability and Biodiversity.”
 
 **Speaker, III Congreso de la Red Española de Historia Ambiental de España**, Granada, May 11-13.
-- “Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
+“Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
 Session 
-– “Movimientos sociales-ambientales. Nuevas propuestas.”
+“Movimientos sociales-ambientales. Nuevas propuestas.”
 
 ### 2021
 **Speaker, British Society for the History of Science**, Online, July 13.
 “‘If You Need a New Microscope – Why Purchase an Old One?’ Scientific Advertisements in Nature and Their Role in the Printed Forum of the Laboratory Research Community.”
-- Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank"> <img src="{{ oliviodare.com }}/youtube-icon.png" width="20" style="position: relative; top: 4px; padding-right: 5px">https://youtu.be/0Bhw1H8JuJU</a>.
+Lightning Session – “Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.” <a href="https://youtu.be/0Bhw1H8JuJU" target="_blank"> <img src="{{ oliviodare.com }}/youtube-icon.png" width="20" style="position: relative; top: 4px; padding-right: 5px">https://youtu.be/0Bhw1H8JuJU</a>.
 
 **Host and organiser, Journal of Trial and Error events,** Online, June 15.   
 “Open Science rankings: yes, no, or not this way? A debate on developing and implementing transparency metrics.”   
