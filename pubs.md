@@ -31,7 +31,7 @@ pageID: pubs-page
 
 ### 2022
 - **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
-- ““Straight trunks” and “original biocenosis”: production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
+- “'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
 - Session – “Sustainability and Biodiversity.”
 
 - **Speaker, III Congreso de la Red Española de Historia Ambiental de España**, Granada, May 11-13.
