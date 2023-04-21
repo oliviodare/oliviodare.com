@@ -6,18 +6,15 @@ pageID: pubs-page
 ---
 
 ## academic works
-- “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.  
-
+- “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
   - with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
 
-- “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.  
-
+- “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
   - with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
   
 
 ### book reviews
 - "David Sepkoski, *Catastrophic Thinking: Extinction and the Value of Diversity from Darwin to the Anthropocene*, Chicago, IL: University of Chicago Press, 2020, £28.00, ISBN 9780226348612." <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
-
   - with Charles H Pence. 
 
 ## talks & events  
