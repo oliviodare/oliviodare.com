@@ -35,7 +35,8 @@ pageID: pubs-page
 
 - **Speaker, III Congreso de la Red Española de Historia Ambiental de España**, Granada, May 11-13.
 - “Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
-Session – “Movimientos sociales-ambientales. Nuevas propuestas.”
+Session 
+– “Movimientos sociales-ambientales. Nuevas propuestas.”
 
 ### 2021
 **Speaker, British Society for the History of Science**, Online, July 13.
