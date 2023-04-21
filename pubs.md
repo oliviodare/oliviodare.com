@@ -26,7 +26,7 @@ pageID: pubs-page
 - Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
 
 - **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
-- “Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
+- “Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations.”
 
 ### 2022
 - **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
