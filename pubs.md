@@ -25,6 +25,10 @@ pageID: pubs-page
 **Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value**, Brussels, October 20-21. <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
 Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
 
+- **Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value**, Brussels, October 20-21. <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
+- Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
+
+
 **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
 “Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
 
@@ -32,6 +36,10 @@ Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
 **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
 “'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
 Session – “Sustainability and Biodiversity.”
+
+- **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
+- “'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
+- Session – “Sustainability and Biodiversity.”
 
 **Speaker, III Congreso de la Red Española de Historia Ambiental de España**, Granada, May 11-13.
 “Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
