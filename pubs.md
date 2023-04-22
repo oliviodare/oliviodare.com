@@ -16,9 +16,8 @@ pageID: pubs-page
   
 
 ### book reviews
-- "David Sepkoski, *Catastrophic Thinking: Extinction and the Value of Diversity from Darwin to the Anthropocene*, Chicago, IL: University of Chicago Press, 2020, £28.00, ISBN 9780226348612." <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
-
-  - with Charles H Pence. 
+- Perpinyà, M. B. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’,
+*BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 ## talks & events  
 ### 2023
