@@ -16,8 +16,7 @@ pageID: pubs-page
   
 
 ### book reviews
-- Perpinyà, M. B. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’,
-*BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
+- Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 ## talks & events  
 ### 2023
