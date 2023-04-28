@@ -6,20 +6,16 @@ style: type2page
 pageID: pubs-page
 ---
 
-## academic works
-- “Science Fails. Let’s Publish”, _Journal of Trial and Error,_ 2020; 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
+## Academic works
+- Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. ‘Science Fails. Let’s Publish.’ *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
 
-  - with Sean Devine, Valentine Delrue, Stefan Gaillard, Thomas Jorna, Martijn van der Meer, Lottricia Millet, Chelsea Pozzebon, and Jobke Visser.  
-
-- “Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease”, _International Journal of Molecular Sciences,_ 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
-
-  - with Daniel F. Burgos, Lorena Cussó, Gentzane Sánchez-Elexpuru, Daniel Calle, Manuel Desco, José M. Serratosa, and Marina P. Sánchez.  
+- Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. ‘Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.’ *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
   
 
-### book reviews
+### Book reviews
 - Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
-## talks & events  
+## Talks & events  
 ### 2023
 - **Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value**, Brussels, October 20-21. <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
 - Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
@@ -77,7 +73,7 @@ pageID: pubs-page
 - “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”.   
 - Annual Graduate Student Symposium.
 
-## outreach
+## Outreach
 Blogpost (2021). “<a href="http://eseh.org/online-conferences-wont-do-it-instead-of-sustainable-academic-history-we-need-engaged-historians-working-less-and-collaborating-with-activists/" target="_blank">Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists</a>”, Sustainable Academia seires, _Next Generation Action Team (NEXTGATe), European Society for Environmental History_ and _Historians for Future_.  
 
 Interview (2020). “<a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?</a>” _Journal of Trial and Error_.  
