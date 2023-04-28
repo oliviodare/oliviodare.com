@@ -1,7 +1,8 @@
 ---
 layout: default
-<!-- title: pubs | oliviodare -->
+title: pubs | oliviodare
 description: Publications by Max Bautista Perpinyà
+style: type2page
 pageID: pubs-page
 ---
 

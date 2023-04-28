@@ -230,6 +230,13 @@ ul {
 }
 
 
+blockquote {
+    padding-left: 2%;
+    /*font-family: monospace;*/
+    border-left: solid 1px;
+    position: relative;
+    left: 2%;
+}
 
 img[src="/face2.png"] {
 	position: relative;
