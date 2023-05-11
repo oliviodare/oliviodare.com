@@ -268,13 +268,13 @@ img[src="/room.png"] {
   body {
     // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 97%;
-		line-height: 2em;
-		// margin-left: 0%;
-		position: relative;
+		// margin-left: 4%;
 		// left: 4%;
 		margin-right: 0%;
-		padding-top:182px !important;
 		padding-left: 7%;
+		padding-top:182px !important;
+		line-height: 2em;
+		position: relative;
   }
 
 	nav {
