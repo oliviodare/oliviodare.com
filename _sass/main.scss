@@ -267,11 +267,11 @@ img[src="/room.png"] {
 @media only screen and (max-width: 1300px) {
   body {
     // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
-		max-width: 92%;
+		max-width: 97%;
 		line-height: 2em;
 		// margin-left: 0%;
 		position: relative;
-		left: 4%;
+		// left: 4%;
 		margin-right: 0%;
 		padding-top:182px !important;
 		padding-left: 4%;
@@ -284,7 +284,7 @@ img[src="/room.png"] {
     top: 0;
     padding-top: 52px;
     padding-bottom: 60px;
-		padding-left: 7%;
+				padding-left: 7%;
     padding-right: 100%;
     margin-bottom: 100px;
     word-spacing: 62px;
