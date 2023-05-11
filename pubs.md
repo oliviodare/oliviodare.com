@@ -14,7 +14,6 @@ pageID: pubs-page
 - [Outreach](#outreach)
 
 <br>
-<br>
 
 ## Academic works
 - Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. ‘Science Fails. Let’s Publish.’ *Journal of Trial and Error*. <a class="dont-break-out" href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
@@ -51,8 +50,8 @@ pageID: pubs-page
 - A three-way debate organized by the Journal of Trial and Error, the Open Science Community Tilburg and Utrecht, and the Centre for Science and Technology Studies (Leiden). <a class="dont-break-out" href="https://youtu.be/TMGaNvo-SgM" target="_blank">https://youtu.be/TMGaNvo-SgM</a>.
 
 - **Invited speaker, Sociedad Española de Bioquímica y Biología Molecular,** Online, February 2.
-- “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
-- Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” <a class="dont-break-out" href="https://youtu.be/BsdnXtBwKAc?t=4129" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4129</a>.
+- “¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas.”   
+- Roundtable – “¿Qué es una publicación científica? Cómo generar una publicación científica. Tipos de publicaciones. Publicar en abierto: Open Science. Publicar resultados negativos.” <a class="dont-break-out" href="https://youtu.be/BsdnXtBwKAc?t=4129" target="_blank">https://youtu.be/BsdnXtBwKAc?t=4129</a>.
 
 ### 2020
 - **Speaker, Descartes Centre for the History and Philosophy of the Sciences and the Humanities,** Utrecht, October 29.
