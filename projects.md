@@ -9,9 +9,9 @@ pageID: projects-page
 
 ## Running projects
 
-Together my [PhD project](bio.html#what-i-am-doing-now), I'm involved the following:
+Together my [PhD project](bio.html#what-i-am-doing-now), I'm involved the following smaller projects:
 
-### PhD reading in the history of science and environmental history
+### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
 
 
