@@ -11,7 +11,7 @@ pageID: home-page
 
 My name is Max Bautista Perpinyà and I am a PhD student in the History and Philosophy of Science, based in UCLouvain, in Belgium. I am an 'Aspirant' Fellow of the FNRS. I am [working on](bio.html#what-i-am-doing-now) the history of biodiversity conservation in Spain in the last decade of the twentieth century.
 
-Welcome to my website, built using GitHub Pages/Jekyll. On these pages, you'll find a sort of open CV. The basic structure is this:
+*Welcome* to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.html).
 - a [list](pubs.html) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
 - the [projects](projects.html) that I'm currently involved in.
