@@ -17,9 +17,9 @@ pageID: pubs-page
 [Outreach](#outreach) |
 
 ## Academic works
-Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. ‘Science Fails. Let’s Publish.’ *Journal of Trial and Error*. <a class="dont-break-out" href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
+Devine S, **Bautista Perpinyà M**, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. ‘Science Fails. Let’s Publish.’ *Journal of Trial and Error*. <a class="dont-break-out" href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
 
-Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. ‘Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.’ *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a class="dont-break-out" href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
+Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Bautista Perpinyà M**, Desco M, Serratosa JM, Sánchez MP. ‘Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.’ *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a class="dont-break-out" href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
 
 ### Book reviews
 Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a class="dont-break-out" href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
