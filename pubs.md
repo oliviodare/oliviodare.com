@@ -12,7 +12,7 @@ pageID: pubs-page
  |  |
 :---|:---|
 [Academic works](#academic-works) | 
-[Book reviews](#book-reviews) | 
+&nbsp; &nbsp; [Book reviews](#book-reviews) | 
 [Talks & events](#talks--events) |
 [Outreach](#outreach) |
 
