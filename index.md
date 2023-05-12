@@ -13,7 +13,7 @@ My name is Max Bautista Perpinyà and I am a PhD student in the History and Phil
 
 *Welcome* to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
 - my [bio](bio.html).
-- a [list](pubs.html) of the academic publications and journalistic pieces I've written, the talks I've given, and events I hosted.
+- a list of the academic [publications](pubs.html) and journalistic pieces I've written, the talks I've given, and events I hosted.
 - the [projects](projects.html) that I'm currently involved in.
 - my actual <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
 
