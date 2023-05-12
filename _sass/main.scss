@@ -61,55 +61,6 @@ footer, header, hgroup, menu, nav, section {
 	text-decoration: none;
 }
 
-// #blog-page ul p {
-// 	display: none;
-// }
-
-#blog-page ul li {
-	padding-top: 10px;
-}
-
-#pubs-page ul {
-	list-style: none;
-	position: relative;
-	// right: 1%;
-	// padding-top: 0;
-	// margin-top: 0;
-	// bottom: 13px;
-	// padding-bottom: 4%;
-	left: -3%;
-}
-
-#pubs-page body > ul > li > p {
-	/*margin-bottom: 0.6%;*/
-    margin-bottom: 30pto;
-	/*padding-top:3%;*/
-}
-
-#pubs-page body > ul > li:nth-child(1) > p {
-	padding-top: 0.2%;
-}
-
-#pubs-page body > ul > li > ul > li {
-	position: relative;
-	left: 3%;
-}
-
-
-
-
-
-// #blog-page ul:hover {
-// 	border-left: 1px solid var(--myblack);
-// 	padding-left: 12px;
-// }
-
-// #blog-page ul:hover > li:nth-child(2) > p {
-// 	display: block;
-// }
-
-
-
 .current {
   text-decoration: none;
 }
@@ -142,7 +93,7 @@ body  {
 nav {
   background: var(--mybckground);
 	padding-top: 4%;
-	padding-bottom:8%;
+	padding-bottom:4%;
 	/*uncomment for fixed nav bar
 	position: fixed;
   padding-bottom: 14px;
@@ -204,7 +155,8 @@ h1 {
   font-size: 3.5em;
   font-weight: bold;
   margin-bottom: 20px;
-	line-height: 0.9em;
+    line-height: 0.9em;
+    padding-top: 0.8em;
 }
 
 h2 {
@@ -226,8 +178,23 @@ h3 {
 ul {
 	margin-left:30px;
 	margin-top: 4px;
-	max-width: 80%;
+    max-width: 100%;
 }
+
+#pubs-page ul {
+	list-style: none;
+	position: relative;
+	left: -30px;
+}
+
+#pubs-page p {
+    margin: 0;
+    padding-top: 20px;
+}
+
+#pubs-page h3 + p, #pubs-page h2 + p {
+    padding-top: 0px;
+    }
 
 
 blockquote {
@@ -236,6 +203,10 @@ blockquote {
     border-left: solid 1px;
     position: relative;
     left: 2%;
+}
+
+body > table > thead > tr > th {
+    display: none;
 }
 
 img[src="/face2.png"] {
@@ -278,13 +249,13 @@ img[src="/room.png"] {
   }
 
 	nav {
-		font-size: 3.55em;
+    font-size: 3.55em;
     position: fixed;
     left: 0;
     top: 0;
     padding-top: 52px;
     padding-bottom: 60px;
-				padding-left: 7%;
+    padding-left: 7%;
     padding-right: 100%;
     margin-bottom: 100px;
     word-spacing: 62px;
@@ -306,10 +277,10 @@ img[src="/room.png"] {
   word-break: break-word;
 
   /* Adds a hyphen where the word breaks, if supported (No Blink) */
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
+  // -ms-hyphens: auto;
+  // -moz-hyphens: auto;
+  // -webkit-hyphens: auto;
+  // hyphens: auto;
 
 }
 
@@ -323,50 +294,53 @@ img[src="/room.png"] {
 	h2 {
 	    margin-top: 80px;
 	    position: sticky;
-			position: -webkit-sticky;
+        position: -webkit-sticky;
 	    top: 148px !important;
-	    padding-bottom: 40px;
 	    font-size: 3.4em;
 	    z-index: 4;
 	    background-color: var(--mybckground);
 	    padding-top: 36px;
-			// width: 100%;
-			// padding-right: 600px;
+
 	}
 
 	h3 {
-		margin-bottom: 0.2em;
+        margin-top: 80px;
 		font-size: 3em;
         line-height: 1.7em;
 	}
 
 	p {
-		margin-bottom: 72px;
+        margin-top: 72px;
 		font-size: 2.4em;
 		line-height: 1.5em;
 		padding-right:1%;
-		// font-weight: 400;
 	}
-
-	ul {
-		font-size: 2.4em;
-		margin-left:70px;
-		margin-top: 4px;
-		max-width: 80%;
-		line-height: 1.5em;
-		// font-weight: 400;
-
+    
+    
+    h2 + p, h3 + p {
+        margin-top: 0px;
+    }
+    
+    
+    ul {
+         font-size: 2.4em;
+         line-height: 1.5em;
+         position: relative;
+         left: 8%;
 	}
-
-	#blog-page ul a {
-		font-size: 1em;
-		text-decoration: underline;
-	}
-
-	#blog-page ul li {
-		padding-top: 10px;
-		line-height: 1.6em;
-	}
+    
+    #home-page body > ul {
+        position: relative;
+        max-width: 7%;
+    }
+    
+    body > table {
+        font-size: 2.9em;
+        height: 350px;
+        
+    }
+    
+    
 
 	#blog-page p {
 		font-size: 0.9em;
@@ -374,39 +348,6 @@ img[src="/room.png"] {
 		padding-left: 4%;
 	}
 
-	#pubs-page body > ul > li > p {
-		font-size: 0.9em;
-		line-height: 2.3em;
-		width: 130%
-	}
-
-	#pubs-page ul {
-	    list-style: none;
-	    position: relative;
-			margin-left: 4%;
-	    // right: 6%;
-			// margin-left: 0;
-	}
-
-#pubs-page body > ul > li > p {
-	//padding-top: 20%;//
-}
-#pubs-page body > ul > li > ul > li {
-	width: 140%;
-    margin-bottom: 10pt;
-}
-
-#pubs-page body > ul > li > ul {
-	font-size: 0.9em;
-	line-height: 2.2em;
-	margin-left: 1.9em;
-}
-
-#pubs-page body>ul>li>ul>li {
-    position: relative;
-    left: 3%;
-    margin-bottom: 14pt;
-}
     
 	.fixedfooter {
 		font-size: 3.55em;
@@ -433,26 +374,6 @@ img[src="/room.png"] {
   margin-bottom: 94px;
 	z-index: 4;
 }
-	// h4, h5 {
-  //   font-size: 24em;
-  //   font-weight: bold;
-  //   opacity: 7%;
-	// 	line-height: 0.72em;
-  //   display: block;
-  //   word-wrap: break-word;
-  //   width: 714px;
-  //   position: absolute;
-  //   top: 209px;
-  //   right: -8px;
-	// 	text-align: right;
-	// }
-	//
-	// h5 {
-	// 	top: 230px;
-	// 	right: -18px;
-	// }
-
-
 
 
 	img[src="/face2.png"] {
