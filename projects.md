@@ -16,7 +16,7 @@ Together my [PhD project](bio.html#what-i-am-doing-now), I'm involved the follow
 
 Our workshop proposal has been accepted to the 4th World Congress of Environmental History, to take place in Oulu (Finland), 19-23 August 2024 https://wceh2024.com/.
 
-This installation has been developed by Brussels-based duo: Alicia Jeannin (spoken-word audiovisual artist and scenographer) and Max Bautista Perpinyà (PhD candidate in philosophy at UCLouvain).
+This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="https://www.aliciajeannin.com/" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist and scenographer) and Max Bautista Perpinyà (PhD candidate in philosophy at UCLouvain).
 
 ### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
