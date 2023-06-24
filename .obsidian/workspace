@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d15f83da6dd7a332",
+        "id": "3ac62ad4d4147571",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d15f83da6dd7a332",
+  "active": "3ac62ad4d4147571",
   "lastOpenFiles": [
     "presentation.md",
     "bio.md",
