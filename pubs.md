@@ -35,11 +35,11 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 ### 2022
 **Speaker, 10th conference of the European Society for the History of Science**, Brussels, September 7-10.
 - “'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.”
-- Session “Sustainability and Biodiversity.”
+- Session - “Sustainability and Biodiversity.”
 
 **Speaker, III Congreso de la Red Española de Historia Ambiental de España**, Granada, May 11-13.
 - “Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.”
-- Session “Movimientos sociales-ambientales. Nuevas propuestas.”
+- Session - “Movimientos sociales-ambientales. Nuevas propuestas.”
 
 ### 2021
 **Speaker, British Society for the History of Science**, Online, July 13.
