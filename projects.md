@@ -25,11 +25,15 @@ Organised together with fellow iHC doctoral students Carolina Granado and Hècto
 > 
 > This seminar aims to create a space for researchers to outline possible forms of EH-HS relationships. Questions such as temporality, geographical scale, themes and methodologies emerge as points of tension and dialogue between the two disciplines. The link between historiographical propositions and the political agency of society and nature is also a central component that seems to differentiate the two disciplines but may unite them in new scholarship. Furthermore, given the time of eco-social crisis in which we live, we believe that it would be futile to practice a history that was blind to current eco-social problems, just as it would be beneficial for activism to take into account the historical trajectory of environmental struggles, or to reflect on the different ways that science is presented in envisioning solutions. For this reason, we also want to give a space to reflect on the existing interactions between these two disciplines and activism, and imagine possible new scenarios.
 
-
+### Co-organisation of 9th PhD Conference in History of Science and Humanities in Belgium and the Netherlands (April 2024)
+CFP out soon.
 
 ### Co-organisation of the conference *Integrating the History and Philosophy of Biodiversity* (October 2023)
 Together with Charles H. Pence, we will be hosting a conference in Brussels in October 2023 to  bring together scholars from several traditions – at the very least, from philosophy of science, history of science, and environmental history – to propose different ways to think about ‘biodiversity’ and explore how they might interact. The CfP is closed and the programme will be up soon: <a class="dont-break-out" href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>.
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ## Past projects
 ### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
