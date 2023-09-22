@@ -47,6 +47,9 @@ CFP out soon.
 <br/><br/>
 <br/><br/>
 <br/><br/>
+
+<hr style="width:70%; border-width:0px; height:2px; text-align:left; margin-left:0; background-color:var(--myhovercolor);">
+
 ## Past projects
 ### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
