@@ -9,7 +9,7 @@ pageID: projects-page
 
 ## Running projects
 
-Together my [PhD project](bio.html#what-i-am-doing-now), I'm involved the following projects:
+Together my [PhD](bio.html#what-i-am-doing-now), I'm involved the following projects:
 
 
 ### Co-organisation of the conference *Integrating the History and Philosophy of Biodiversity* (October 2023)
