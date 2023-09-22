@@ -29,7 +29,7 @@ Together with Charles H. Pence, we are hosting a conference in Brussels in Octob
 Our workshop proposal has been accepted to the 4th World Congress of Environmental History, to take place in Oulu (Finland), 19-23 August 2024 <a class="dont-break-out" href="https://wceh2024.com/" target="_blank">https://wceh2024.com/</a>.
 
 
-This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="quand-ils-parlent.jimdofree.com" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist, performer and scenographer) and Max Bautista Perpinyà.
+This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="https://quand-ils-parlent.jimdofree.com/" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist, performer and scenographer) and Max Bautista Perpinyà.
 
 ![reading-listening-reading]({{ diagram }}/how-do-i-you-they.jpg){: style="float: bottom; width: 380px" }
 
