@@ -12,15 +12,6 @@ pageID: projects-page
 Together my [PhD](bio.html#what-i-am-doing-now), I'm involved the following projects:
 
 
-### Co-organisation of the conference *Integrating the History and Philosophy of Biodiversity* (October 2023)
-![HPSBiodiv1]({{ flyer }}/HPSBiodiv2.jpg){: style="float: left; width: 400px; margin: 2px; margin-right: 20px" }
-
-Together with Charles H. Pence, we are hosting a conference in Brussels in October 2023 to bring together scholars from several traditions – at the very least, from philosophy of science, history of science, and environmental history – to propose different ways to think about ‘biodiversity’ and explore how they might interact. Keynotes: David Sepkoski and Alkistis Elliot-Graves. The CfP is closed, the programme is out: <a class="dont-break-out" href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>.
-
-![HPSBiodiv1]({{ flyer }}/HPSBiodiv1.jpg){: style="float: bottom; width: 240px; margin: 2px; margin-right: 20px" }
-
-
-
 ### Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other.
 ![reading-listening-reading]({{ photo }}/reading-listening-reading.jpg){: style="float: right; width: 380px; margin: 19px; margin-right: 20px" }
 
@@ -51,6 +42,14 @@ CFP out soon.
 <hr style="width:70%; border-width:0px; height:2px; text-align:left; margin-left:0; background-color:var(--myhovercolor);">
 
 ## Past projects
+### Co-organisation of the conference *Integrating the History and Philosophy of Biodiversity* (October 2023)
+![HPSBiodiv1]({{ flyer }}/HPSBiodiv2.jpg){: style="float: left; width: 400px; margin: 2px; margin-right: 20px" }
+
+Together with Charles H. Pence, we are hosting a conference in Brussels in October 2023 to bring together scholars from several traditions – at the very least, from philosophy of science, history of science, and environmental history – to propose different ways to think about ‘biodiversity’ and explore how they might interact. Keynotes: David Sepkoski and Alkistis Elliot-Graves. The CfP is closed, the programme is out: <a class="dont-break-out" href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>.
+
+![HPSBiodiv1]({{ flyer }}/HPSBiodiv1.jpg){: style="float: bottom; width: 240px; margin: 2px; margin-right: 20px" }
+
+
 ### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
 
