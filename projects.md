@@ -12,17 +12,21 @@ pageID: projects-page
 Together my [PhD](bio.html#what-i-am-doing-now), I'm involved the following projects:
 
 
-### Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other.
+### *Reading, listening, and reading*. A collective walk on how we read and listen to the environment, history, and each other.
 ![reading-listening-reading]({{ photo }}/reading-listening-reading.jpg){: style="float: right; width: 380px; margin: 19px; margin-right: 20px" }
 
-'Reading, listening, and reading' is an interactive installation in the form of a collective walk around sound devices. Conference attendees will hear the voices of fellow colleagues in environmental history (and related fields) speaking of their intimate practices of reading and listening. Now, we ask participants to tell us how they read a source, read a colleague's book, actively listen to a witness, or read changes and conflicts in the landscape. With the collection of voices, we will create a mixed-media dispositif: voices, texts, images, and diagrams will serve to create a warm and sensorial space. We are now seeking interested people to engage in conversation with us (either in person or online) for no more than 2 hours. We want to hear about your day-to-day reading habits and your reflections on what reading means to you. In your 'paper proposal', please simply write a few sentences describing why you want to participate in the workshop. With this proposal, we want to emphasize the hybridity of our sources, and how we listen to the non-human and each other. In the spirit of WCEH2024, we strive for inclusivity and aim to (very literally), include as many diverse voices as possible. The guiding thread is to explore how what we read in our environment is mediated by the variety of reading practices themselves. This installation is a proof of concept on how artistic practices can serve as methodologies in the ambition to re-think how we share our research beyond conventional academic formats.
+'Reading, listening, and reading' is an interactive installation in the form of a collective walk around sound devices. Conference participants hear the voices of fellow colleagues in environmental history (and neighbouring fields) speaking of their **intimate practices of reading and listening**. We will hear how they read a source, read a colleague's book, actively listen to a witness, or read changes and conflicts in the landscape. The collection of voices is embedded in a mixed-media dispositif: voices, texts, images, and diagrams will serve to create a warm and sensorial space. The guiding thread is to explore how what we read in our environment is **mediated by** the variety of reading practices themselves. This installation is a proof of concept on how artistic practices can serve as methodologies in the ambition to re-think how we share our research beyond conventional academic formats.
 
-Our workshop proposal has been accepted to the 4th World Congress of Environmental History, to take place in Oulu (Finland), 19-23 August 2024 <a class="dont-break-out" href="https://wceh2024.com/" target="_blank">https://wceh2024.com/</a>.
-
+![reading-listening-reading]({{ diagram }}/how-do-i-you-they.jpg){: style="float: left; margin-right: 19px; width: 380px" }
 
 This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="https://quand-ils-parlent.jimdofree.com/" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist, performer and scenographer) and Max Bautista Perpinyà.
 
-![reading-listening-reading]({{ diagram }}/how-do-i-you-they.jpg){: style="float: bottom; width: 380px" }
+Our installation will premiere at the 4th World Congress of Environmental History in Oulu (Finland), 19-23 August 2024 <a class="dont-break-out" href="https://wceh2024.com/" target="_blank">https://wceh2024.com/</a>. 
+
+*reading, listening, and reading* has been awarded the European Union's Culture Moves Europe mobility grant.
+
+
+![logoEU]({{ flyer }}/logoEU.png){: style="float: bottom; width: 300px; margin: 2px; padding-top: 20px; margin-right: 20px" }
 
 
 ### Co-organisation of the seminar *Disciplinary crossroads: history of science and environmental history* at Institut d'Història de la Ciència (UAB, Barcelona) - 11-12 April 2024
