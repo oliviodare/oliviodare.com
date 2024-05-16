@@ -6,7 +6,6 @@ pageID: projects-page
 
 ---
 
-
 ## Running projects
 
 Together my [PhD](bio.html#what-i-am-doing-now), I'm involved the following projects:
