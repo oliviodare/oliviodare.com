@@ -27,14 +27,6 @@ Our installation will premiere at the 4th World Congress of Environmental Histor
 
 ![logoEU]({{ flyer }}/logoEU.png){: style="float: bottom; width: 300px; margin: 2px; padding-top: 20px; margin-right: 20px" }
 
-
-### Co-organisation of the seminar *Disciplinary crossroads: history of science and environmental history* at Institut d'Història de la Ciència (UAB, Barcelona) - 11-12 April 2024
-Organised together with fellow iHC doctoral students Carolina Granado and Hèctor Isern. Program to be distributed shortly.
-
-> Environmental history and the history of science have established themselves as self-standing disciplines for several decades now. However, despite the amount of topics they cover in common, the relationships between these two disciplines have not always been simple or obvious.
-> 
-> This seminar aims to create a space for researchers to outline possible forms of EH-HS relationships. Questions such as temporality, geographical scale, themes and methodologies emerge as points of tension and dialogue between the two disciplines. The link between historiographical propositions and the political agency of society and nature is also a central component that seems to differentiate the two disciplines but may unite them in new scholarship. Furthermore, given the time of eco-social crisis in which we live, we believe that it would be futile to practice a history that was blind to current eco-social problems, just as it would be beneficial for activism to take into account the historical trajectory of environmental struggles, or to reflect on the different ways that science is presented in envisioning solutions. For this reason, we also want to give a space to reflect on the existing interactions between these two disciplines and activism and imagine possible new scenarios.
-
 ### Co-organisation of the 9th PhD Conference in History of Science and Humanities in Belgium and the Netherlands (April 2024)
 CFP out soon.
 
@@ -45,13 +37,20 @@ CFP out soon.
 <hr style="width:70%; border-width:0px; height:2px; text-align:left; margin-left:0; background-color:var(--myhovercolor);">
 
 ## Past projects
+
+### Co-organisation of the seminar *Disciplinary crossroads: history of science and environmental history* at Institut d'Història de la Ciència (UAB, Barcelona) - 11-12 April 2024
+Organised together with fellow iHC doctoral students Carolina Granado and Hèctor Isern. 
+
+> Environmental history and the history of science have established themselves as self-standing disciplines for several decades now. However, despite the amount of topics they cover in common, the relationships between these two disciplines have not always been simple or obvious.
+> 
+> This seminar aims to create a space for researchers to outline possible forms of EH-HS relationships. Questions such as temporality, geographical scale, themes and methodologies emerge as points of tension and dialogue between the two disciplines. The link between historiographical propositions and the political agency of society and nature is also a central component that seems to differentiate the two disciplines but may unite them in new scholarship. Furthermore, given the time of eco-social crisis in which we live, we believe that it would be futile to practice a history that was blind to current eco-social problems, just as it would be beneficial for activism to take into account the historical trajectory of environmental struggles, or to reflect on the different ways that science is presented in envisioning solutions. For this reason, we also want to give a space to reflect on the existing interactions between these two disciplines and activism and imagine possible new scenarios.
+
 ### Co-organisation of the conference *Integrating the History and Philosophy of Biodiversity* (October 2023)
 ![HPSBiodiv1]({{ flyer }}/HPSBiodiv2.jpg){: style="float: left; width: 400px; margin: 2px; margin-right: 20px" }
 
 Together with Charles H. Pence, we are hosting a conference in Brussels in October 2023 to bring together scholars from several traditions – at the very least, from philosophy of science, history of science, and environmental history – to propose different ways to think about ‘biodiversity’ and explore how they might interact. Keynotes: David Sepkoski and Alkistis Elliot-Graves. The CfP is closed, the programme is out: <a class="dont-break-out" href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>.
 
 ![HPSBiodiv1]({{ flyer }}/HPSBiodiv1.jpg){: style="float: bottom; width: 240px; margin: 2px; margin-right: 20px" }
-
 
 ### PhD reading group in the history of science and environmental history
 Having met at conferences and during our studies, a group of PhD students in several European countries working at the intersection of the history of science and environmental history, we started in late 2022 an informal reading group to discuss the historiographic points of tension and dialogues between these two approaches to history. What is the place of 'science' in environmental history? What is the place of the 'environment' in the history of science? We meet online, twice a month. If you are interested you can sign up to the mailing list: <a class="dont-break-out" href="https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience" target="_blank">https://sympa-2.sipr.ucl.ac.be/sympa/info/envhistofscience</a>.
