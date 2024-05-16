@@ -12,7 +12,7 @@ pageID: projects-page
 Together my [PhD](bio.html#what-i-am-doing-now), I'm involved the following projects:
 
 
-### *Reading, listening, and reading*. A collective walk on how we read and listen to the environment, history, and each other.
+### *reading, listening, and reading*. A collective walk on how we read and listen to the environment, history, and each other.
 ![reading-listening-reading]({{ photo }}/reading-listening-reading.jpg){: style="float: right; width: 380px; margin: 19px; margin-right: 20px" }
 
 'Reading, listening, and reading' is an interactive installation in the form of a collective walk around sound devices. Conference participants hear the voices of fellow colleagues in environmental history (and neighbouring fields) speaking of their **intimate practices of reading and listening**. We will hear how they read a source, read a colleague's book, actively listen to a witness, or read changes and conflicts in the landscape. The collection of voices is embedded in a mixed-media dispositif: voices, texts, images, and diagrams will serve to create a warm and sensorial space. The guiding thread is to explore how what we read in our environment is **mediated by** the variety of reading practices themselves. This installation is a proof of concept on how artistic practices can serve as methodologies in the ambition to re-think how we share our research beyond conventional academic formats.
