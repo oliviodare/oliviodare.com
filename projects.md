@@ -27,7 +27,7 @@ Our installation will premiere at the 4th World Congress of Environmental Histor
 
 ![logoEU]({{ flyer }}/logoEU.png){: style="float: bottom; width: 300px; margin: 2px; padding-top: 20px; margin-right: 20px" }
 
-### Co-organisation of the 9th PhD Conference in History of Science and Humanities in Belgium and the Netherlands (April 2024)
+### Co-organisation of the 9th PhD Conference in History of Science and Humanities in Belgium and the Netherlands (April 2025)
 CFP out soon.
 
 <br/><br/>
