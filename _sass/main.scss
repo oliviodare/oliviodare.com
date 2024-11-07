@@ -248,7 +248,7 @@ img[src="/room.png"] {
 	position: relative;
 	height: 420px;
 	width: auto;
-	padding-right: 300px;
+	padding-right: 252px;
 	padding-bottom: 20px;
 }
 
@@ -421,11 +421,16 @@ img[src="/tbms_portada.jpg"] {
 	img[src="/room.png"] {
 		position: inherit;
 		padding-top: 50px;
-		height: 420px;
+		height: 100%;
 		width: auto;
-		
+		padding-right: 0px;
 	}
 
+	img[src="/tbms_portada.jpg"] {
+		height: 100%;
+		width: auto;
+	}
+	
 	img {
 		float: none !important;
 		width: 100% !important;

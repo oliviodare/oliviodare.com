@@ -27,7 +27,6 @@ In 2020 I graduated with Cum Laude from the research master History and Philosop
 
 
 ## Just a bit further back
-
 Before studying History and Philosophy of Science, I earned an MSc in Neuroscience in Strasbourg and a BSc in Biological Sciences in Maastricht and worked in several neuroscience laboratories as a research assistant. Throughout these years of studying and doing science, I kept thinking about how people communicate within and about science. In the big-picture, I wanted to understand how knowledge is (and isn't) politically put into effect. The theme of communication of knowledge is deeply embedded in the practices of sciences, such as how researchers read, write, and commercialise research objects. This is what pushed me to study HPS.
 
 
