@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "ruedha3.png"
+            "file": "room.png"
           }
         }
       }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ruedha3.png",
+                "file": "room.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "3ac62ad4d4147571",
   "lastOpenFiles": [
-    "pubs_backup_iframes.md",
     "README.md",
+    "reading-listening-reading.jpg",
+    "pubs_backup_iframes.md",
+    "pubs.md",
+    "projects.md",
+    "presentation_template.md",
+    "presentation_ruedha.md",
     "max.jpeg",
-    "academic organising.md",
-    "bern.png",
-    "404.md",
-    "index.md",
-    "organising.html.md",
-    "HPSBiodiv1.jpg",
-    "how-do-i-you-they.jpg"
+    "logoEU.png",
+    "index.md"
   ]
 }

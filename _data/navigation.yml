@@ -4,6 +4,8 @@
   link: /bio.html
 - name: projects
   link: /projects.html
+- name: academic organising
+  link: /academic-organising.html
 - name: pubs
   link: /pubs.html
   subfolderitems:
