@@ -6,6 +6,7 @@ style:  type2page
 pageID: bio2-page
 ---
 
+## BIO2
 ## What I am doing now
 
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/ODqw1.jpeg){: style="float: right" }
