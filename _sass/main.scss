@@ -275,18 +275,21 @@ img[src="/tbms_portada.jpg"] {
 
 	nav {
     font-size: 2.15em;
+	word-spacing: 50px;
+	letter-spacing: 4px;
+	line-height: 60px;
     position: fixed;
     left: 0;
     top: 0;
-    padding-top: 45px;
-    padding-bottom: 49px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     padding-left: 11%;
     padding-right: 100%;
+	padding-right: 10px;
     margin-bottom: 100px;
-    word-spacing: 78px;
     z-index: 5;
     border-bottom: 4px solid var(--myblack);
-    white-space: nowrap;
+    white-space: wrap;
 	}
 
 .dont-break-out {
@@ -308,7 +311,6 @@ img[src="/tbms_portada.jpg"] {
   // hyphens: auto;
 
 }
-
 
 	h1 {
 		font-size: 5.3em;
@@ -337,9 +339,9 @@ img[src="/tbms_portada.jpg"] {
 
 	p {
         margin-top: 72px;
-		font-size: 2.4em;
-		line-height: 1.5em;
-		padding-right:1%;
+		font-size: 3.4em;
+		line-height: 1.2em;
+		padding-right:0.5%;
 	}
     
     
