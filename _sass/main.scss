@@ -246,20 +246,17 @@ img[src="/max.jpeg"] {
 
 img[src="/room.png"] {
 	position: relative;
-	// bottom: 561px;
-	// left: 790px;
-	width: 400px;
-	// padding-left: 30px;
-	left: 235px;
-	bottom: 58px;
-	height: auto;
+	height: 420px;
+	width: auto;
+	padding-right: 300px;
+	padding-bottom: 20px;
 }
 
 img[src="/tbms_portada.jpg"] {
 	position: relative;
 	padding-right: 3%;
-	width: 240px;
-	height: auto;
+	height: 420px;
+	width: auto;
 }
 
 /* responsive for mobile*/
@@ -422,8 +419,9 @@ img[src="/tbms_portada.jpg"] {
 	img[src="/room.png"] {
 		position: inherit;
 		padding-top: 50px;
-		// width: 700px;
-		height: auto;
+		height: 420px;
+		width: auto;
+		
 	}
 
 	img {
@@ -483,13 +481,11 @@ img[src="/tbms_portada.jpg"] {
 
 	img[src="/room.png"] {
 		position: relative;
-		// bottom: 561px;
-		// left: 790px;
-		width: 400px;
+		height: 420px;
+		width: auto;
 		// padding-left: 30px;
-		left: 190px;
-		bottom: 70px;
-		height: auto;
+		// left: 190px;
+		// bottom: 70px;
 	}
 
 
