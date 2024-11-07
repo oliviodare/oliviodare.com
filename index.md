@@ -12,7 +12,7 @@ My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy 
 
 *Welcome* to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
 
-1/ My [bio](bio.html).
+1/ My [academic biography](bio.html).
 
 2/ A list of the academic and outreach [publications](pubs.html) and talks I've given.
 
