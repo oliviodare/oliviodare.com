@@ -7,7 +7,7 @@ pageID: home-page
 
 # Hello, my name is Max.
 
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/max.jpeg){: style="float: right;width: 350px"}
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/max.jpeg){: style="float: left;width: 350px"}
 
 My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy of Science based at UCLouvain (Belgium). I am an *Aspirant* Fellow of the Belgian National Science Fund (FNRS), [working on](bio.html#what-i-am-doing-now) the history of ecology, forestry, and environmentalism in Spain in the last decades of the twentieth century.
 
