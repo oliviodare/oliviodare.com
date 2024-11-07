@@ -9,7 +9,7 @@ pageID: bio-page
 ## What I am doing now
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/ODqw1.jpeg){: style="float: right" }
 
-I began my PhD research project in September 2021 at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. In 2022, I was granted the *Aspirant* Doctoral Fellowship of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).
+I began my PhD research project in September 2021 at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. In 2022, I was granted the 4-year *Aspirant* Doctoral Fellowship of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).
 
 My project is broadly situated between history and philosophy of science and environmental history, and I am particularly interested **in the articulation of science and environmentalism in the making of contemporary Spanish democracy (1982-2007)**. My thesis revolves around the histories of three communities: forest engineers, terrestrial ecologists, and grassroots environmental activists. I study the ways they used science in the political arena, and the tensions and convergences between them. I focus on the ideological and epistemic differences that underscored the particular strategies in which they articulated their science –from legislating to creating new classificatory technologies, from raising awareness to building knowledge capacity in activist organisations, from working with Ministers to working with intersectional citizen initiatives. 
 
