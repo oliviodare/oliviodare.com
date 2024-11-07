@@ -6,6 +6,7 @@ style:  type2page
 pageID: organising-page
 ---
 
+Events are the lifeblood of academia, the place and moment we make our communities. That is why I am always very keen in organising workshops, PhD conferences, seminars, reading groups. Here is a list of some of those events I (co-)organised these past years.
 
 ## 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), _Beyond Switching Plastic Straws_
 Together with my cohort colleagues
