@@ -7,11 +7,9 @@
         "id": "3ac62ad4d4147571",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
+            "file": "ruedha3.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "ruedha3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "3ac62ad4d4147571",
   "lastOpenFiles": [
+    "pubs_backup_iframes.md",
+    "README.md",
     "max.jpeg",
-    "organising.md",
-    "bio.md",
+    "academic organising.md",
+    "bern.png",
+    "404.md",
     "index.md",
-    "projects.md",
-    "pubs.md",
-    "blog.md",
-    "presentation.md",
-    "face.png",
-    "face2.png"
+    "organising.html.md",
+    "HPSBiodiv1.jpg",
+    "how-do-i-you-they.jpg"
   ]
 }
