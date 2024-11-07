@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "academic-organising.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d76358123c09d3e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "academic-organising.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "academic-organising.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +101,15 @@
   },
   "active": "3ac62ad4d4147571",
   "lastOpenFiles": [
+    "projects.md",
+    "pubs.md",
+    "academic-organising.md",
+    "bio.md",
+    "max.jpeg",
+    "index.md",
     "room.png",
     "README.md",
     "reading-listening-reading.jpg",
-    "pubs_backup_iframes.md",
-    "pubs.md",
-    "projects.md",
-    "presentation_template.md",
-    "presentation_ruedha.md",
-    "max.jpeg",
-    "logoEU.png"
+    "pubs_backup_iframes.md"
   ]
 }

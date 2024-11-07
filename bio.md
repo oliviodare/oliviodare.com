@@ -7,7 +7,7 @@ pageID: bio-page
 ---
 
 ## What I am doing now
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/face2.png){: style="float: right" }
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/ODqw1.jpeg){: style="float: right" }
 
 I began my PhD research project in September 2021 at the <a href="https://pencelab.be/" target="_blank">Pence Lab</a> at the Université catholique de Louvain in Belgium. In 2022, I was granted the *Aspirant* Doctoral Fellowship of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).
 

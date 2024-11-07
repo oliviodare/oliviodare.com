@@ -5,18 +5,22 @@ description: Hello! I'm Max Bautista Perpinyà, PhD student in the History and P
 pageID: home-page
 ---
 
+![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/max.jpeg){: style="float: left;width: 400px"}
 # Hello, my name is Max.
-
-![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/max.jpeg){: style="float: left;width: 350px"}
 
 My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy of Science based at UCLouvain (Belgium). I am an *Aspirant* Fellow of the Belgian National Science Fund (FNRS), [working on](bio.html#what-i-am-doing-now) the history of ecology, forestry, and environmentalism in Spain in the last decades of the twentieth century.
 
 *Welcome* to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
-- my [bio](bio.html).
-- a list of the academic [publications](pubs.html) and journalistic pieces I've written, the talks I've given, and events I hosted.
-- the [projects](projects.html) that I'm currently involved in.
-- the conferences, workshops, reading groups, etc., that I [organised](academic-organising.html) with colleagues.
-- my actual <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
+
+1/ My [bio](bio.html).
+
+2/ A list of the academic and outreach [publications](pubs.html) and talks I've given.
+
+3/ The [projects](projects.html) that I'm currently involved in.
+
+4/ The conferences, workshops, reading groups, etc., that I [organised or hosted](academic-organising.html) with colleagues.
+
+5/ My actual <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
 
 ## Socials and getting in touch
 My online handle is usually oliviodare.<br>
