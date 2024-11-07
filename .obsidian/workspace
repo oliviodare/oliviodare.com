@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bio.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3ac62ad4d4147571",
   "lastOpenFiles": [
-    "presentation.md",
+    "blog.md",
     "bio.md",
+    "presentation.md",
     "index.md",
     "projects.md",
     "pubs.md",
     "face.png",
     "face2.png",
     "404.md",
-    "bern.png",
-    "README.md"
+    "bern.png"
   ]
 }
