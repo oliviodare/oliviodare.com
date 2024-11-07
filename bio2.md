@@ -4,12 +4,6 @@ title: bio | oliviodare
 description: Max Bautista Perpinyà's bio
 style:  type2page
 pageID: bio2-page
-
----
-
-Max Bautista Perpinyà's bio
-style:  type2page
-pageID: bio-page
 ---
 
 ## What I am doing now
