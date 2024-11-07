@@ -15,7 +15,7 @@ My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy 
 - my [bio](bio.html).
 - a list of the academic [publications](pubs.html) and journalistic pieces I've written, the talks I've given, and events I hosted.
 - the [projects](projects.html) that I'm currently involved in.
-- the conferences, workshops, reading groups I [organise](organising.html).
+- the conferences, workshops, reading groups, and other [academic organising](academic-organising.html) I participated in.
 - my actual <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
 
 ## Socials and getting in touch
