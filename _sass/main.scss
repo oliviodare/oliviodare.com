@@ -90,6 +90,7 @@ body  {
 
 }
 
+
 nav {
   background: var(--mybckground);
 	padding-top: 4%;
@@ -227,13 +228,9 @@ img[src="/face2.png"] {
 
 img[src="/ODqw1.jpeg"] {
 	position: relative;
-	// bottom: 669px;
-	// left: 775px;
-	// mix-blend-mode: hard-light;
-	// padding-left: 30px;
 	padding-right: 0px;
-	left: 100px;
-	bottom: 30px;
+	left: 120px;
+	top: 5px;
 	width: 400px;
 	height: auto;
 }
@@ -248,15 +245,12 @@ img[src="/room.png"] {
 	position: relative;
 	height: 420px;
 	width: auto;
-	padding-right: 252px;
+	//padding-right: 252px;
 	padding-bottom: 20px;
 }
 
-img[src="/tbms_portada.jpg"] {
-	position: relative;
-	padding-right: 3%;
-	height: 420px;
-	width: auto;
+.clear {
+    clear: both;
 }
 
 /* responsive for mobile*/
@@ -403,7 +397,6 @@ img[src="/tbms_portada.jpg"] {
 	z-index: 4;
 }
 
-
 	img[src="/face2.png"] {
 		position: inherit;
 		padding-top: 50px;
@@ -431,10 +424,12 @@ img[src="/tbms_portada.jpg"] {
 		width: auto;
 	}
 	
+
 	img {
 		float: none !important;
 		width: 100% !important;
 	}
+
 
 	iframe {
 		width:92%;
@@ -475,15 +470,12 @@ img[src="/tbms_portada.jpg"] {
 
 	img[src="/ODqw1.jpeg"] {
 		position: relative;
-		// bottom: 669px;
-		// left: 775px;
-		mix-blend-mode: hard-light;
-		// padding-left: 30px;
+		// mix-blend-mode: hard-light;
 		padding-right: 0px;
 		left: 100px;
-		bottom: 30px;
-		width: 400px;
+		width: 450px;
 		height: auto;
+		bottom: -40px;
 	}
 
 	img[src="/room.png"] {
@@ -495,5 +487,9 @@ img[src="/tbms_portada.jpg"] {
 		// bottom: 70px;
 	}
 
+	img[src="/max.jpeg"] {
+		height: 700px;
+		width: auto !important;
+	}
 
 }

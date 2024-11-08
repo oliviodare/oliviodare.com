@@ -8,9 +8,9 @@ pageID: home-page
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/max.jpeg){: style="float: left;width: 400px"}
 # Hello, my name is Max.
 
-My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy of Science based at UCLouvain (Belgium). I am an *Aspirant* Fellow of the Belgian National Science Fund (FNRS), [working on](bio.html#what-i-am-doing-now) the history of ecology, forestry, and environmentalism in Spain in the last decades of the twentieth century.
+My name is Max Bautista Perpinyà, I am a PhD researcher in the History and Philosophy of Science, based at UCLouvain (Belgium). I am an *Aspirant* Fellow of the Belgian National Science Fund (FNRS), [working on](bio.html#what-i-am-doing-now) the history of ecology, forestry, and environmentalism in Spain in the last decades of the twentieth century.
 
-*Welcome* to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
+Welcome to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
 
 1/ My [academic biography](bio.html).
 
@@ -20,7 +20,7 @@ My name is Max Bautista Perpinyà, PhD researcher in the History and Philosophy 
 
 4/ The conferences, workshops, reading groups, etc., that I [organised or hosted](academic-organising.html) with colleagues.
 
-5/ My actual <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
+5/ My <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
 
 ## Socials and getting in touch
 My online handle is usually oliviodare.<br>

@@ -28,9 +28,18 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Bautista Perpinyà M**, Des
 
 Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a class="dont-break-out" href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
+
+
+
+
 ## Oral communications
 *[back to the top](#top)*
 
+<img src="eshs2024.jpeg" style="float: left; height: 400px; width: auto;">
+
+<div class="clear"></div>
+
+### 2023
 **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
 - “Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations.”
 
@@ -74,14 +83,15 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 - “The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science”.   
 - Annual Graduate Student Symposium.
 
+
+<img src="Gzxos.jpeg" style="float: left; height: 600px; padding-top: 40px; padding-right: 30px; padding-bottom: 39px">
 ## Outreach
 *[back to the top](#top)*
+
 
 Blogpost (2021). “<a class="dont-break-out" href="http://eseh.org/online-conferences-wont-do-it-instead-of-sustainable-academic-history-we-need-engaged-historians-working-less-and-collaborating-with-activists/" target="_blank">Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists</a>”, Sustainable Academia seires, _Next Generation Action Team (NEXTGATe), European Society for Environmental History_ and _Historians for Future_.  
 
 Interview (2020). “<a class="dont-break-out" href="https://blog.trialanderror.org/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascientists" target="_blank">JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?</a>” _Journal of Trial and Error_.  
-
-Interview (2020). “<a class="dont-break-out" href="https://blog.trialanderror.org/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles" target="_blank">JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.</a>” _Journal of Trial and Error_.  
 
 Blogpost (2020). “<a class="dont-break-out" href="https://openscience-utrecht.com/open-science-symposium-starting-off-with-the-natural-sciences/" target="_blank">Open Science Symposium – Starting off with the Natural Sciences.</a>” _Blog: the Road to Open Science_, Open Science Community Utrecht.  
 
