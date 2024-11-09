@@ -1,9 +1,7 @@
 - name: home
   link: /
-- name: bio
+- name: bio/projects
   link: /bio.html
-- name: projects
-  link: /projects.html
 - name: academic organising
   link: /academic-organising.html
 - name: pubs

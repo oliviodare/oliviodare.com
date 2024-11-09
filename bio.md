@@ -6,7 +6,7 @@ style:  type2page
 pageID: bio-page
 ---
 
-## What I am doing now
+## My ongoing PhD project
 
 ![Max Bautista Perpinyà (oliviodare)]({{ oliviodare.com }}/ODqw1.jpeg){: style="float: right" }
 

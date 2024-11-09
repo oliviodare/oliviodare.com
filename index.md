@@ -12,15 +12,13 @@ My name is Max Bautista Perpinyà, I am a PhD researcher in the History and Phil
 
 Welcome to my website. On these pages, you'll find a sort of open CV. The basic structure is this:
 
-1/ My [academic biography](bio.html).
+1/ My [academic biography](bio.html) and current projects.
 
-2/ A list of the academic and outreach [publications](pubs.html) and talks I've given.
+2/ A list of the academic [publications](pubs.html), talks and outreach.
 
-3/ The [projects](projects.html) that I'm currently involved in.
+3/ The conferences, workshops, reading groups, etc., that I [organised or hosted](academic-organising.html) with colleagues.
 
-4/ The conferences, workshops, reading groups, etc., that I [organised or hosted](academic-organising.html) with colleagues.
-
-5/ My <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
+4/ My <a href="https://oliviodare.github.io/cv/" target="_blank">CV</a>.
 
 ## Socials and getting in touch
 My online handle is usually oliviodare.<br>

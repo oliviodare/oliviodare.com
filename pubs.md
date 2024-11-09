@@ -35,9 +35,29 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 ## Oral communications
 *[back to the top](#top)*
 
-<img src="eshs2024.jpeg" style="float: left; height: 400px; width: auto;">
+<img src="eshs2024.jpeg" style="float: left">
 
 <div class="clear"></div>
+
+
+### 2024
+*reading, listening, and reading*. A collective walk on how we read and listen to the environment, history, and each other.
+
+<img src="reading-listening-reading.jpg" style="float: left">
+<img src="how-do-i-you-they.jpg" style="float: left">
+
+<div class="clear"></div>
+
+'Reading, listening, and reading' is an interactive installation in the form of a collective walk around sound devices. Conference participants hear the voices of fellow colleagues in environmental history (and neighbouring fields) speaking of their **intimate practices of reading and listening**. We will hear how they read a source, read a colleague's book, actively listen to a witness, or read changes and conflicts in the landscape. The collection of voices is embedded in a mixed-media dispositif: voices, texts, images, and diagrams will serve to create a warm and sensorial space. The guiding thread is to explore how what we read in our environment is **mediated by** the variety of reading practices themselves. This installation is a proof of concept on how artistic practices can serve as methodologies in the ambition to re-think how we share our research beyond conventional academic formats.
+
+This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="https://quand-ils-parlent.jimdofree.com/" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist, performer and scenographer) and Max Bautista Perpinyà.
+
+
+
+![logoEU]({{ flyer }}/logoEU.png){: style="float: left; width: 300px; margin: 2px; margin-right: 20px" }
+Our installation was first presented at the 4th World Congress of Environmental History in Oulu (Finland), 19-23 August 2024 <a class="dont-break-out" href="https://wceh2024.com/" target="_blank">https://wceh2024.com/</a>. It was awarded the European Union's Culture Moves Europe mobility grant.
+
+
 
 ### 2023
 **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
@@ -84,7 +104,7 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 - Annual Graduate Student Symposium.
 
 
-<img src="Gzxos.jpeg" style="float: left; height: 600px; padding-top: 40px; padding-right: 30px; padding-bottom: 39px">
+<img src="Gzxos.jpeg" style="float: left">
 ## Outreach
 *[back to the top](#top)*
 
