@@ -283,7 +283,7 @@ img[src="/room.png"] {
 }
 
 /* responsive for mobile*/
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 768px) {
   body {
     // overflow-x: hidden; /* This fixes scrollable on x for tablets but I took it from somewhere else so I don't really know what it does*/
 		max-width: 97%;
