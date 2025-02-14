@@ -29,9 +29,6 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, **Bautista Perpinyà M**, Des
 Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a class="dont-break-out" href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 
-
-
-
 ## Oral communications
 *[back to the top](#top)*
 
@@ -39,6 +36,12 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 
 <div class="clear"></div>
 
+### 2025
+Speaker, 7th Biennial Conference of the European Rural History Organisation (EURHO), Coimbra (Portugal), September 2025
+- "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)."
+
+Speaker, International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), July 2025
+- "Semi-fictitious biographies to think about values in science. An attempt towards performance." 
 
 ### 2024
 *reading, listening, and reading*. A collective walk on how we read and listen to the environment, history, and each other.
@@ -47,17 +50,12 @@ Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophi
 <img src="how-do-i-you-they.jpg" style="float: left">
 
 <div class="clear"></div>
-
 'Reading, listening, and reading' is an interactive installation in the form of a collective walk around sound devices. Conference participants hear the voices of fellow colleagues in environmental history (and neighbouring fields) speaking of their **intimate practices of reading and listening**. We will hear how they read a source, read a colleague's book, actively listen to a witness, or read changes and conflicts in the landscape. The collection of voices is embedded in a mixed-media dispositif: voices, texts, images, and diagrams will serve to create a warm and sensorial space. The guiding thread is to explore how what we read in our environment is **mediated by** the variety of reading practices themselves. This installation is a proof of concept on how artistic practices can serve as methodologies in the ambition to re-think how we share our research beyond conventional academic formats.
 
 This installation has been developed by Brussels-based duo: <a class="dont-break-out" href="https://quand-ils-parlent.jimdofree.com/" target="_blank">Alicia Jeannin</a> (spoken-word audiovisual artist, performer and scenographer) and Max Bautista Perpinyà.
 
-
-
 ![logoEU]({{ flyer }}/logoEU.png){: style="float: left; width: 300px; margin: 2px; margin-right: 20px" }
 Our installation was first presented at the 4th World Congress of Environmental History in Oulu (Finland), 19-23 August 2024 <a class="dont-break-out" href="https://wceh2024.com/" target="_blank">https://wceh2024.com/</a>. It was awarded the European Union's Culture Moves Europe mobility grant.
-
-
 
 ### 2023
 **Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey, April 20-21.  
@@ -107,7 +105,6 @@ Our installation was first presented at the 4th World Congress of Environmental 
 <img src="Gzxos.jpeg" style="float: left">
 ## Outreach
 *[back to the top](#top)*
-
 
 Blogpost (2021). “<a class="dont-break-out" href="http://eseh.org/online-conferences-wont-do-it-instead-of-sustainable-academic-history-we-need-engaged-historians-working-less-and-collaborating-with-activists/" target="_blank">Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists</a>”, Sustainable Academia seires, _Next Generation Action Team (NEXTGATe), European Society for Environmental History_ and _Historians for Future_.  
 
